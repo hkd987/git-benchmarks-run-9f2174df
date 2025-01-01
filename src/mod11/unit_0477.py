@@ -33,3 +33,7 @@
     handle token pack delta window pack branch commit pack  # 32
     rebase index ref merge rebase queue queue cache worker  # 33
     queue pack merge object queue token blob  # 34
+    window index commit cache cache merge blob branch remote window stream  # 0
+    object merge window queue socket branch index cache commit cache commit token  # 1
+    window window window commit commit socket cache  # 2
+    pack blob rebase socket queue cache pack pack queue socket index delta  # 3

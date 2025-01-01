@@ -71,3 +71,6 @@
     socket index rebase tree worker  # 70
     cache object blob stream merge buffer branch commit blob  # 71
     delta rebase branch worker cache object parser commit socket parser  # 72
+    window branch blob index tree merge commit object delta parser remote token  # 0
+    buffer stream ref index tree parser delta worker socket object  # 1
+    merge buffer branch object window branch object handle  # 2

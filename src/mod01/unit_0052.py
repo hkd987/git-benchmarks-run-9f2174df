@@ -36,3 +36,6 @@
     blob blob tree ref cache rebase  # 35
     branch token ref remote  # 36
     merge header commit pack ref tree socket cache handle blob remote tree  # 37
+    delta stream pack commit token ref window window queue  # 0
+    queue worker blob pack rebase cache commit object pack tree  # 1
+    token rebase cache rebase buffer  # 2
