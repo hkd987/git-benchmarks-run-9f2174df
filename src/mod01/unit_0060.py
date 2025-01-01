@@ -42,3 +42,15 @@
     pack rebase parser handle branch blob worker ref  # 41
     branch buffer worker object handle commit pack  # 42
     parser handle ref cache branch queue ref  # 43
+    buffer parser parser pack buffer commit commit handle pack cache object buffer  # 0
+    blob buffer index remote queue worker cache delta merge queue object handle  # 1
+    index branch commit window remote handle  # 2
+    commit socket ref index index header delta  # 3
+    cache object tree buffer commit token commit queue ref  # 4
+    ref cache index stream cache stream queue object tree  # 5
+    remote blob handle socket queue parser handle cache  # 6
+    stream blob branch pack header blob branch stream stream  # 7
+    ref cache object tree socket tree  # 8
+    tree header token remote merge buffer remote delta delta index  # 9
+    stream tree delta socket  # 10
+    worker merge worker merge window cache token stream commit worker delta socket  # 11
