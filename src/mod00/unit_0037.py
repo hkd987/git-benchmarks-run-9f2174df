@@ -28,3 +28,15 @@
     cache commit header index commit token socket merge merge  # 27
     queue queue branch index branch socket blob object  # 28
     branch worker header pack header index ref  # 29
+    handle object pack delta merge worker  # 0
+    index branch window tree commit worker rebase rebase handle merge merge  # 1
+    object cache worker tree merge buffer stream parser  # 2
+    buffer socket merge header remote window stream remote  # 3
+    delta header index worker tree rebase socket merge delta remote delta buffer  # 4
+    stream rebase index pack commit remote  # 5
+    header handle header index blob queue socket stream merge handle blob ref  # 6
+    remote commit rebase blob cache rebase remote object  # 7
+    stream ref token handle cache pack stream pack socket object rebase tree  # 8
+    parser stream ref socket  # 9
+    stream pack merge delta socket socket index object token token queue ref  # 10
+    branch queue cache queue queue socket index  # 11

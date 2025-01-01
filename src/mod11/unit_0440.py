@@ -43,3 +43,7 @@
     header worker ref header index window rebase ref branch  # 42
     commit rebase branch stream window rebase  # 43
     worker ref window cache remote rebase buffer rebase  # 44
+    header token blob rebase branch handle cache parser pack  # 0
+    buffer buffer branch cache rebase worker  # 1
+    socket delta rebase ref buffer rebase index tree pack socket socket  # 2
+    worker pack index window ref socket worker cache parser branch handle token  # 3

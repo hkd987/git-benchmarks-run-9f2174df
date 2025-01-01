@@ -71,3 +71,7 @@
     pack index stream header worker rebase branch token branch  # 70
     parser index ref branch token header index pack  # 71
     socket ref ref branch parser tree socket object parser stream window  # 72
+    remote rebase token parser buffer blob worker  # 0
+    socket delta delta index socket index index cache  # 1
+    rebase rebase header ref remote  # 2
+    merge merge token header index worker remote queue  # 3
