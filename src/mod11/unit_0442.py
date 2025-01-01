@@ -83,3 +83,12 @@
     worker rebase handle buffer blob index worker index branch delta header  # 82
     index ref token cache remote remote index buffer window socket merge  # 83
     window blob blob window remote  # 84
+    commit header window cache rebase worker socket index worker window socket worker  # 0
+    tree tree pack stream socket merge index merge commit window delta branch  # 1
+    tree token buffer buffer pack queue  # 2
+    handle cache tree socket token blob handle tree token buffer pack  # 3
+    parser ref tree cache pack commit header queue pack remote branch  # 4
+    tree tree object pack queue rebase branch queue delta tree  # 5
+    merge blob buffer parser merge object index buffer handle worker queue merge  # 6
+    cache rebase tree ref index  # 7
+    object parser worker pack token header tree blob handle merge ref  # 8

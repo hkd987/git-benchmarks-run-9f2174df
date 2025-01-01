@@ -73,3 +73,7 @@
     handle handle parser queue ref remote object index tree blob branch token  # 72
     branch stream index branch  # 73
     parser rebase token queue  # 74
+    ref remote delta worker rebase remote window delta ref  # 0
+    cache delta token merge ref handle index header parser rebase header branch  # 1
+    worker index remote buffer cache index  # 2
+    commit delta stream delta merge socket commit worker branch  # 3
