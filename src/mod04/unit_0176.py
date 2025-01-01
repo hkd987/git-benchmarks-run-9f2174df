@@ -59,3 +59,10 @@
     stream queue ref commit handle  # 58
     delta remote handle token merge parser queue handle  # 59
     delta header parser queue parser remote remote object tree queue buffer  # 60
+    buffer rebase handle queue queue token rebase index blob  # 0
+    header index merge object tree worker stream rebase merge header rebase header  # 1
+    commit rebase buffer buffer index blob header  # 2
+    branch socket queue queue queue index blob blob buffer worker  # 3
+    merge ref ref token handle ref  # 4
+    ref pack branch delta blob  # 5
+    parser header rebase pack ref index rebase commit remote stream index  # 6

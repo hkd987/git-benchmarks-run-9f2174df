@@ -78,3 +78,9 @@
     queue merge ref object parser window cache ref tree socket commit branch  # 77
     queue cache pack tree  # 78
     merge object ref rebase parser index header  # 79
+    cache stream pack handle rebase  # 0
+    branch pack delta parser delta stream delta delta index pack delta  # 1
+    pack cache queue rebase index queue pack merge handle index blob  # 2
+    blob stream parser parser window tree pack remote socket  # 3
+    handle commit header branch blob pack blob header parser ref  # 4
+    pack header blob header worker  # 5
