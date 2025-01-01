@@ -90,3 +90,7 @@
     worker pack header stream handle branch cache worker remote  # 10
     stream buffer queue tree merge tree tree queue index  # 11
     token blob tree object remote  # 12
+    rebase pack stream rebase branch  # 0
+    queue blob handle handle stream rebase ref window buffer  # 1
+    window rebase object stream window socket  # 2
+    object buffer branch delta stream  # 3

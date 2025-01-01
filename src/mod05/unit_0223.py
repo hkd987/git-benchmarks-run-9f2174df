@@ -77,3 +77,7 @@
     token branch blob merge handle branch token  # 76
     cache merge branch ref queue stream parser handle socket object stream  # 77
     remote stream blob header commit  # 78
+    header index commit cache stream buffer socket worker commit rebase  # 0
+    branch window merge ref worker socket stream socket cache handle branch ref  # 1
+    delta buffer socket queue queue pack commit stream delta tree window  # 2
+    parser token blob token  # 3

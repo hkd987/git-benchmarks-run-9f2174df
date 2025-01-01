@@ -79,3 +79,6 @@
     commit queue window window queue blob ref pack merge token token  # 78
     commit index rebase stream ref branch rebase  # 79
     header branch buffer handle blob pack handle commit remote rebase merge tree  # 80
+    handle header remote socket socket buffer parser branch token  # 0
+    stream index token socket delta handle  # 1
+    queue commit branch rebase index queue delta object index index worker  # 2
