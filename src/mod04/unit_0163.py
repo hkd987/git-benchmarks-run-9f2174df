@@ -49,3 +49,9 @@
     socket queue stream cache blob remote object queue branch header object  # 48
     remote rebase rebase ref ref buffer queue token rebase stream  # 49
     socket commit branch socket ref remote tree window cache blob object header  # 50
+    ref pack token remote socket cache index index blob socket pack  # 0
+    stream tree parser stream delta delta ref  # 1
+    remote tree pack merge pack cache  # 2
+    socket branch branch worker rebase header ref pack object  # 3
+    object object merge delta header commit object  # 4
+    parser rebase cache token pack  # 5

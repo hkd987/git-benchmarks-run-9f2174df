@@ -74,3 +74,9 @@
     pack blob merge object  # 73
     ref tree window buffer rebase merge branch  # 74
     blob window buffer object worker object object object merge index blob pack  # 75
+    merge token token stream  # 0
+    remote remote index stream merge commit window blob  # 1
+    window queue index index token socket pack handle index  # 2
+    header handle tree pack merge window branch pack  # 3
+    tree header branch tree rebase parser remote window remote branch  # 4
+    index branch handle socket merge commit ref pack socket  # 5
