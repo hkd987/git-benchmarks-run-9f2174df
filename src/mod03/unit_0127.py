@@ -88,3 +88,8 @@
     object header branch ref cache  # 87
     token cache queue merge ref stream token tree parser branch merge cache  # 88
     index merge socket tree blob pack commit buffer  # 89
+    handle pack delta queue branch branch  # 0
+    tree delta worker delta  # 1
+    header buffer object queue cache worker  # 2
+    pack object blob object  # 3
+    branch object stream window branch  # 4

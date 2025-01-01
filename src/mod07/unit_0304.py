@@ -86,3 +86,10 @@
     socket socket stream commit worker  # 85
     remote index blob branch handle buffer queue stream merge index  # 86
     window branch queue pack object rebase header window index  # 87
+    token rebase commit handle stream index worker commit commit  # 0
+    ref parser header blob window ref socket  # 1
+    stream queue cache stream merge handle index  # 2
+    remote index stream cache buffer window window parser ref index queue stream  # 3
+    tree stream index worker header socket  # 4
+    window commit socket worker delta  # 5
+    branch remote index tree socket cache blob  # 6
