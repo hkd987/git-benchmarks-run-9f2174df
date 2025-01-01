@@ -29,3 +29,11 @@
     tree index tree tree worker commit parser pack blob buffer  # 28
     handle blob blob rebase  # 29
     handle token worker branch socket stream index  # 30
+    index index buffer tree worker commit cache blob blob buffer commit delta  # 0
+    pack cache window socket buffer parser rebase token buffer  # 1
+    remote worker parser delta  # 2
+    branch tree buffer socket merge header header ref window object queue  # 3
+    cache merge queue commit remote rebase worker commit  # 4
+    token stream worker delta queue socket window delta rebase cache worker  # 5
+    worker tree index commit cache queue token branch buffer  # 6
+    header delta parser header remote window parser token  # 7
