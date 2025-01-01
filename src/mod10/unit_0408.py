@@ -29,3 +29,9 @@
     header parser commit cache ref pack rebase token  # 28
     blob token stream remote delta window rebase worker commit window blob parser  # 29
     blob branch stream tree tree index  # 30
+    stream tree delta handle branch  # 0
+    socket delta delta window  # 1
+    parser stream parser rebase ref parser buffer header delta  # 2
+    delta ref branch window header commit remote blob stream pack  # 3
+    object handle commit object object queue merge header rebase  # 4
+    window header cache handle ref  # 5
