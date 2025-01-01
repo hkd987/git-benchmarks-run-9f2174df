@@ -79,3 +79,7 @@
     socket buffer handle stream  # 78
     pack delta index queue window header  # 79
     handle tree index stream worker delta blob commit object handle  # 80
+    object token stream remote remote socket index token  # 0
+    delta rebase worker rebase token  # 1
+    queue remote rebase header  # 2
+    token ref ref token window object  # 3

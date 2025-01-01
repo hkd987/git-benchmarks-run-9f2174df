@@ -78,3 +78,6 @@
     branch merge handle branch ref worker index worker parser token window socket  # 1
     commit pack header handle socket header queue header token commit  # 2
     socket rebase queue worker token object  # 3
+    object worker queue parser commit socket merge rebase ref stream  # 0
+    parser tree window branch ref buffer buffer  # 1
+    window window ref stream merge branch blob  # 2
