@@ -58,3 +58,8 @@
     merge cache token socket queue object branch window object delta delta  # 57
     stream parser worker object blob buffer blob index socket header token  # 58
     blob header branch cache commit remote remote index queue  # 59
+    header rebase pack header object delta  # 0
+    header worker remote blob handle window handle  # 1
+    handle header handle buffer worker header stream handle  # 2
+    blob window worker handle queue delta tree socket index buffer tree  # 3
+    handle token token header token delta pack tree ref ref  # 4

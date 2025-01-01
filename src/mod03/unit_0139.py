@@ -40,3 +40,14 @@
     token worker queue remote worker merge window  # 39
     commit ref remote object queue header stream  # 40
     queue header stream worker ref stream worker remote buffer parser commit  # 41
+    handle rebase object tree token index remote index  # 0
+    token merge queue header token commit pack blob window handle window pack  # 1
+    cache pack worker blob socket header  # 2
+    parser branch blob queue merge branch  # 3
+    buffer buffer buffer queue delta queue tree worker remote tree merge cache  # 4
+    token branch merge commit  # 5
+    ref handle buffer index parser window  # 6
+    delta ref worker index parser header commit cache cache cache  # 7
+    blob ref parser parser delta pack worker handle delta remote delta rebase  # 8
+    delta delta blob handle merge tree cache stream token ref  # 9
+    remote handle delta commit merge window ref cache parser  # 10
