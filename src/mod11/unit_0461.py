@@ -63,3 +63,7 @@
     merge object blob ref remote socket cache header remote index  # 62
     cache window merge queue socket parser parser  # 63
     ref rebase parser branch remote blob window handle  # 64
+    worker queue cache window branch cache socket handle object rebase  # 0
+    commit delta remote queue buffer tree parser cache branch pack token tree  # 1
+    worker object blob buffer index handle header remote pack merge handle delta  # 2
+    queue parser delta merge token ref object remote blob worker header  # 3

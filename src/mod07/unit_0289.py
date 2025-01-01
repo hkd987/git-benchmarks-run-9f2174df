@@ -69,3 +69,10 @@
     blob parser index remote cache cache pack blob remote header  # 68
     stream delta object stream blob parser  # 69
     stream token tree window merge window object branch branch stream cache  # 70
+    rebase index pack branch token branch  # 0
+    merge handle buffer branch parser  # 1
+    window queue buffer rebase remote  # 2
+    blob cache rebase commit index delta worker branch window branch  # 3
+    blob tree window parser header socket rebase merge pack socket  # 4
+    index merge handle cache  # 5
+    commit delta token handle index stream rebase queue header worker rebase tree  # 6
