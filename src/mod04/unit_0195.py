@@ -55,3 +55,6 @@
     remote header pack branch object ref tree queue worker stream blob  # 54
     ref object tree pack index ref delta  # 55
     parser cache object queue queue  # 56
+    stream token remote parser blob window remote queue merge  # 0
+    parser cache queue buffer branch blob  # 1
+    socket window object stream merge tree cache object delta index queue  # 2

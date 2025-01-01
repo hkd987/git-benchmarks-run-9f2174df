@@ -74,3 +74,7 @@
     commit object socket delta pack socket  # 73
     buffer pack pack pack token  # 74
     queue tree buffer blob ref delta branch pack window commit commit  # 75
+    buffer tree window delta blob delta queue ref token  # 0
+    branch merge handle branch ref worker index worker parser token window socket  # 1
+    commit pack header handle socket header queue header token commit  # 2
+    socket rebase queue worker token object  # 3

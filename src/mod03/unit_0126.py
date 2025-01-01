@@ -84,3 +84,8 @@
     stream commit cache cache queue remote index  # 83
     cache branch index worker branch rebase  # 84
     socket socket blob cache header buffer handle  # 85
+    branch remote index index merge rebase token window pack blob queue  # 0
+    ref remote index queue  # 1
+    window index rebase buffer  # 2
+    stream token delta tree parser socket handle  # 3
+    buffer queue worker delta  # 4

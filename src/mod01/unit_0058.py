@@ -78,3 +78,9 @@
     remote tree socket blob stream socket header socket ref  # 77
     queue header queue header cache token remote object  # 78
     parser token index worker token header tree cache  # 79
+    cache window commit pack  # 0
+    pack buffer cache buffer merge branch cache token rebase merge pack  # 1
+    token handle index merge pack pack header header  # 2
+    object remote queue delta worker buffer index delta header cache  # 3
+    tree window buffer merge buffer token commit ref header branch remote worker  # 4
+    merge ref merge pack  # 5

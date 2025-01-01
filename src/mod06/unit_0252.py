@@ -37,3 +37,18 @@
     delta pack header header  # 36
     rebase stream pack delta parser token  # 37
     handle tree stream stream merge worker parser branch header socket  # 38
+    rebase token blob rebase token merge  # 0
+    socket branch index buffer  # 1
+    window token remote delta parser header delta merge window index cache  # 2
+    index stream stream remote merge socket header blob queue  # 3
+    rebase commit worker queue rebase tree cache stream object handle queue worker  # 4
+    remote merge index header blob remote pack header delta  # 5
+    commit branch tree ref blob blob ref socket parser ref delta  # 6
+    buffer index commit commit token branch merge rebase token  # 7
+    cache remote header rebase ref socket cache cache branch commit  # 8
+    parser index pack rebase tree object delta blob handle handle stream header  # 9
+    handle commit delta socket window header commit window socket  # 10
+    window ref pack branch object queue ref window rebase rebase  # 11
+    object merge remote stream tree branch worker remote rebase header cache  # 12
+    tree rebase remote buffer buffer pack remote merge remote delta  # 13
+    worker socket token buffer blob commit worker branch branch worker  # 14
