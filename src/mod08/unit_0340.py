@@ -62,3 +62,9 @@
     index ref object header socket delta handle rebase commit queue  # 5
     worker tree branch commit ref handle token handle handle merge  # 6
     object delta delta cache cache remote parser  # 7
+    pack token rebase token token  # 0
+    commit ref rebase commit cache rebase rebase cache stream merge parser stream  # 1
+    queue commit buffer token buffer remote buffer parser remote  # 2
+    merge delta parser blob socket cache  # 3
+    commit remote handle token merge header pack tree ref remote queue rebase  # 4
+    delta worker header object handle  # 5
