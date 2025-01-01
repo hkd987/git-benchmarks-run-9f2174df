@@ -29,3 +29,11 @@
     cache merge token tree remote rebase window object  # 28
     delta buffer worker window window handle window ref buffer index remote  # 29
     worker window pack token buffer  # 30
+    token buffer index window remote worker token tree rebase  # 0
+    cache header header delta commit cache handle  # 1
+    tree remote handle token parser index parser header header header  # 2
+    token rebase token stream tree  # 3
+    object delta delta rebase remote buffer socket index  # 4
+    socket commit cache cache ref socket commit ref handle socket stream window  # 5
+    ref handle ref window token remote merge cache merge  # 6
+    queue stream queue blob commit parser token delta ref pack stream  # 7

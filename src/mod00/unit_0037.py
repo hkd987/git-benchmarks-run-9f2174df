@@ -40,3 +40,8 @@
     parser stream ref socket  # 9
     stream pack merge delta socket socket index object token token queue ref  # 10
     branch queue cache queue queue socket index  # 11
+    buffer blob rebase queue ref stream worker socket token tree  # 0
+    parser index delta handle object  # 1
+    commit pack pack parser index delta merge delta  # 2
+    worker stream cache stream buffer rebase  # 3
+    object rebase merge stream parser  # 4

@@ -37,3 +37,10 @@
     object merge window queue socket branch index cache commit cache commit token  # 1
     window window window commit commit socket cache  # 2
     pack blob rebase socket queue cache pack pack queue socket index delta  # 3
+    cache pack remote queue cache remote index tree queue stream stream stream  # 0
+    queue remote pack window branch blob pack  # 1
+    worker handle ref pack branch  # 2
+    stream window socket merge rebase cache handle handle pack  # 3
+    branch queue window object rebase  # 4
+    handle tree header buffer index commit tree delta  # 5
+    delta cache pack cache index  # 6

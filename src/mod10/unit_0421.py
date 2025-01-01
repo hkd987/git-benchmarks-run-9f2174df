@@ -84,3 +84,15 @@
     merge rebase buffer socket  # 83
     window commit delta header remote merge delta object cache buffer stream  # 84
     buffer branch branch buffer branch token buffer pack window  # 85
+    branch worker branch index stream  # 0
+    socket buffer index header index branch stream token parser handle cache  # 1
+    parser buffer socket socket handle remote rebase  # 2
+    branch ref stream handle header blob ref pack rebase socket  # 3
+    object ref tree handle branch delta delta  # 4
+    commit merge index window delta cache delta handle commit delta index blob  # 5
+    cache token branch remote object parser delta remote parser merge  # 6
+    handle pack commit worker  # 7
+    parser branch remote ref pack  # 8
+    window parser blob window header  # 9
+    buffer stream window merge buffer delta window token blob delta  # 10
+    index cache header object merge buffer pack token handle cache  # 11

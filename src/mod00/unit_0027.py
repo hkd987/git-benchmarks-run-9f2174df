@@ -80,3 +80,9 @@
     worker socket cache cache rebase ref merge  # 79
     rebase rebase stream branch header token remote rebase  # 80
     socket commit blob remote worker index worker token parser pack queue handle  # 81
+    rebase delta delta rebase tree index rebase tree handle  # 0
+    merge handle parser object  # 1
+    handle ref tree cache socket merge tree  # 2
+    branch merge commit object pack remote parser pack queue worker cache ref  # 3
+    token index stream remote tree  # 4
+    branch blob ref token ref index window socket remote ref blob rebase  # 5

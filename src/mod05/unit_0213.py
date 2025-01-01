@@ -46,3 +46,8 @@
     ref tree cache delta  # 45
     stream pack ref worker blob  # 46
     parser window merge header object handle commit index handle delta delta delta  # 47
+    worker index rebase worker  # 0
+    index pack object ref rebase worker tree ref parser worker  # 1
+    token window blob window handle socket stream branch merge object  # 2
+    buffer socket rebase branch rebase pack parser buffer  # 3
+    tree token parser handle socket  # 4
