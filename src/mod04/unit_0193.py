@@ -49,3 +49,6 @@
     delta delta pack remote index parser commit  # 48
     rebase pack worker merge remote  # 49
     branch cache stream remote tree commit handle merge parser branch branch  # 50
+    stream commit handle rebase buffer index merge parser worker  # 0
+    pack window header header window buffer blob merge  # 1
+    socket cache rebase rebase  # 2
