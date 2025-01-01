@@ -32,3 +32,13 @@
     buffer delta object delta blob buffer stream index  # 31
     branch handle merge ref blob  # 32
     handle header merge commit remote handle pack pack queue queue  # 33
+    socket blob blob tree queue token  # 0
+    pack socket merge stream remote handle ref merge token ref index cache  # 1
+    tree remote buffer window blob handle merge token remote window  # 2
+    window pack merge object cache index worker blob handle worker handle socket  # 3
+    branch worker handle header queue object buffer stream socket index queue  # 4
+    branch delta commit commit worker ref delta remote index index tree pack  # 5
+    ref buffer merge queue tree tree ref window object blob pack cache  # 6
+    tree queue rebase commit  # 7
+    ref commit branch worker stream rebase index object header header queue tree  # 8
+    commit branch ref token commit object merge token commit  # 9

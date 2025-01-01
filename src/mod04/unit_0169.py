@@ -52,3 +52,10 @@
     handle stream commit merge pack header stream buffer stream object  # 51
     commit token header index commit token buffer token commit header delta delta  # 52
     commit ref ref blob index header pack parser handle rebase buffer ref  # 53
+    object buffer cache commit parser parser handle merge worker socket index  # 0
+    worker token parser index tree  # 1
+    merge queue commit worker queue object object branch handle cache  # 2
+    parser token blob object parser header parser pack blob  # 3
+    queue socket header socket  # 4
+    delta commit header worker  # 5
+    delta ref tree handle merge merge  # 6

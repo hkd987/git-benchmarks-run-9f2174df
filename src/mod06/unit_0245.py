@@ -62,3 +62,9 @@
     window object tree tree  # 61
     buffer index index ref worker rebase window object queue buffer remote branch  # 62
     ref worker parser handle pack ref socket worker rebase  # 63
+    branch window header ref parser tree branch  # 0
+    branch parser window token cache buffer parser  # 1
+    branch remote parser branch tree worker ref buffer cache delta handle  # 2
+    header branch parser index worker branch  # 3
+    branch stream remote header cache handle object ref window queue merge cache  # 4
+    commit index remote header worker window buffer index merge queue socket  # 5

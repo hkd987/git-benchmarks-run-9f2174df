@@ -35,3 +35,8 @@
     handle delta header token parser ref  # 34
     socket branch merge header object  # 35
     commit pack cache object pack ref queue header header pack queue  # 36
+    pack buffer commit queue rebase handle  # 0
+    rebase commit delta rebase  # 1
+    delta blob merge buffer merge blob token object tree remote stream  # 2
+    delta worker blob parser remote index token delta commit worker remote rebase  # 3
+    handle handle merge tree buffer worker remote remote  # 4
