@@ -38,3 +38,10 @@
     header rebase socket blob branch pack object  # 37
     remote delta tree token worker  # 38
     ref stream window ref stream cache branch merge stream tree pack  # 39
+    blob remote pack pack index branch commit buffer ref handle socket index  # 0
+    commit parser delta token cache index buffer delta index delta token  # 1
+    pack socket tree remote header worker token blob stream  # 2
+    ref cache token merge token buffer tree rebase  # 3
+    window remote stream worker socket  # 4
+    handle tree header parser cache queue branch blob cache tree socket object  # 5
+    pack queue pack socket object pack blob  # 6

@@ -72,3 +72,6 @@
     queue remote parser blob  # 71
     socket blob socket rebase token window commit parser merge  # 72
     queue tree worker buffer  # 73
+    buffer blob object branch delta pack buffer ref rebase tree index blob  # 0
+    header buffer rebase socket remote tree delta branch cache  # 1
+    window handle blob index rebase rebase  # 2
