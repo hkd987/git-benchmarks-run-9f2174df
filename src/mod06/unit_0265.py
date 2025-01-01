@@ -50,3 +50,12 @@
     tree rebase blob stream merge pack socket  # 49
     remote blob index pack object  # 50
     index queue parser handle stream tree  # 51
+    blob index queue branch rebase object index header stream  # 0
+    blob branch handle remote merge object  # 1
+    tree tree window tree window pack merge branch  # 2
+    handle rebase token pack branch remote commit header buffer buffer stream  # 3
+    worker cache tree tree tree stream cache header socket queue index blob  # 4
+    parser merge parser handle queue  # 5
+    object buffer buffer window parser remote object cache  # 6
+    stream ref index merge  # 7
+    remote buffer handle parser blob merge stream  # 8

@@ -76,3 +76,9 @@
     index worker stream stream  # 75
     queue object remote index window rebase header header ref branch handle  # 76
     delta worker token cache worker window remote rebase header remote blob commit  # 77
+    rebase parser tree token worker object cache merge remote header token socket  # 0
+    commit stream remote ref branch stream rebase  # 1
+    commit blob queue ref buffer rebase  # 2
+    cache rebase worker token worker ref commit rebase blob  # 3
+    tree cache merge socket stream ref  # 4
+    rebase object pack tree buffer  # 5

@@ -53,3 +53,8 @@
     rebase branch buffer worker  # 52
     ref handle token tree window ref merge ref window handle  # 53
     tree pack pack ref  # 54
+    index ref buffer ref merge handle tree queue blob pack delta socket  # 0
+    handle object object window index  # 1
+    header object cache index parser buffer pack tree  # 2
+    token worker socket object delta  # 3
+    commit object pack cache object  # 4
