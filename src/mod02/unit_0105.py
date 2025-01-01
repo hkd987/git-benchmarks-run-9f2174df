@@ -30,3 +30,8 @@
     rebase cache cache tree socket delta pack object remote branch pack cache  # 29
     branch queue rebase remote queue  # 30
     socket header header rebase commit  # 31
+    index index handle worker stream remote remote queue  # 0
+    cache stream commit ref handle stream blob parser merge  # 1
+    index remote buffer blob  # 2
+    ref index tree rebase index  # 3
+    token stream cache blob ref ref token ref cache parser socket index  # 4
