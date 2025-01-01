@@ -88,3 +88,7 @@
     merge stream worker token parser worker tree worker  # 87
     remote cache commit object commit commit token remote token header merge  # 88
     ref index worker worker index commit queue window remote object queue worker  # 89
+    tree tree branch cache merge merge remote merge merge object branch  # 0
+    rebase handle branch token rebase  # 1
+    queue buffer queue worker header  # 2
+    pack window stream window socket cache  # 3

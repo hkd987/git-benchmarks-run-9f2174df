@@ -59,3 +59,15 @@
     socket window blob header delta  # 58
     window index tree parser  # 59
     cache branch header remote window buffer window socket object token window pack  # 60
+    index parser buffer queue cache queue token index tree  # 0
+    token index parser rebase blob delta window  # 1
+    worker queue remote buffer cache merge buffer tree index pack commit  # 2
+    blob pack index cache stream window handle  # 3
+    worker worker object socket object header buffer index cache pack cache  # 4
+    handle delta branch cache  # 5
+    branch header token handle ref cache worker socket branch token commit worker  # 6
+    blob handle token header remote  # 7
+    branch branch window merge merge index blob worker cache cache token worker  # 8
+    index pack pack stream header handle rebase branch worker merge branch  # 9
+    delta blob blob delta merge ref delta tree remote  # 10
+    ref object queue socket header remote  # 11

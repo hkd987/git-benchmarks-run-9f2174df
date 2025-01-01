@@ -38,3 +38,9 @@
     delta commit commit pack remote ref  # 37
     merge header blob handle parser  # 38
     worker parser branch index tree  # 39
+    worker buffer merge buffer header header buffer  # 0
+    socket queue queue object worker  # 1
+    token rebase blob blob index handle  # 2
+    commit queue worker buffer object blob remote window blob  # 3
+    parser branch index blob header branch delta window commit stream ref branch  # 4
+    object handle queue merge branch header buffer tree header  # 5

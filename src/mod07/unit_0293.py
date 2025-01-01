@@ -34,3 +34,11 @@
     blob branch worker socket queue socket pack worker buffer  # 33
     delta ref index token delta rebase remote ref delta  # 34
     worker rebase blob branch handle branch  # 35
+    blob queue object branch worker queue handle index ref  # 0
+    window buffer blob pack ref branch buffer parser window merge  # 1
+    delta index tree queue blob socket rebase header commit merge branch  # 2
+    commit index rebase window branch handle delta parser pack ref  # 3
+    handle header branch commit  # 4
+    remote ref parser worker cache rebase merge remote rebase object remote window  # 5
+    queue remote ref handle window buffer  # 6
+    pack window ref socket merge branch remote object  # 7
