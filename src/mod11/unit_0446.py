@@ -87,3 +87,6 @@
     commit cache parser window stream  # 86
     window object stream object  # 87
     socket token worker handle merge  # 88
+    cache cache queue delta delta handle  # 0
+    rebase parser cache socket socket  # 1
+    commit branch delta rebase handle rebase blob remote pack worker  # 2

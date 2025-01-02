@@ -59,3 +59,8 @@
     object buffer buffer window parser remote object cache  # 6
     stream ref index merge  # 7
     remote buffer handle parser blob merge stream  # 8
+    object cache parser tree branch index socket buffer  # 0
+    buffer window blob branch header commit rebase blob parser  # 1
+    window branch window stream blob parser rebase  # 2
+    remote merge ref header token stream parser window window  # 3
+    merge socket cache tree stream queue handle delta handle  # 4
