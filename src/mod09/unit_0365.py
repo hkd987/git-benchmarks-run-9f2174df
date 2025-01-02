@@ -85,3 +85,10 @@
     handle tree stream header object tree  # 6
     queue header commit object queue ref  # 7
     window handle window branch commit ref worker socket queue  # 8
+    window cache header commit blob pack  # 0
+    window window rebase commit header  # 1
+    remote window handle buffer stream worker remote window stream remote branch ref  # 2
+    merge cache window remote blob parser tree merge  # 3
+    blob remote stream remote  # 4
+    queue object window cache  # 5
+    object ref cache commit socket commit cache pack tree tree header queue  # 6

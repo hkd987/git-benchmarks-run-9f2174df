@@ -51,3 +51,14 @@
     token window blob window handle socket stream branch merge object  # 2
     buffer socket rebase branch rebase pack parser buffer  # 3
     tree token parser handle socket  # 4
+    remote blob cache object  # 0
+    remote merge pack pack tree index socket branch socket delta merge pack  # 1
+    merge remote object token ref token blob cache remote tree object token  # 2
+    merge handle rebase pack cache tree stream delta token  # 3
+    rebase delta ref cache tree rebase rebase cache index  # 4
+    pack blob socket token  # 5
+    token tree object window window cache remote remote  # 6
+    blob tree ref blob merge  # 7
+    remote buffer remote tree merge handle  # 8
+    worker socket commit index worker  # 9
+    header merge pack blob rebase handle buffer token worker  # 10

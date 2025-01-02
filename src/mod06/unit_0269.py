@@ -82,3 +82,9 @@
     handle header remote socket socket buffer parser branch token  # 0
     stream index token socket delta handle  # 1
     queue commit branch rebase index queue delta object index index worker  # 2
+    branch buffer ref cache handle cache commit remote header stream worker  # 0
+    pack blob blob index worker branch index token blob tree  # 1
+    merge parser object commit queue rebase pack header  # 2
+    remote window ref parser remote blob index handle worker  # 3
+    object worker object delta  # 4
+    blob worker queue remote stream branch merge tree tree parser index queue  # 5

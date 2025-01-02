@@ -75,3 +75,6 @@
     commit branch merge handle pack index remote stream header commit  # 4
     token delta window blob handle window handle token buffer stream delta delta  # 5
     worker ref header stream commit remote socket worker pack  # 6
+    blob remote delta socket handle  # 0
+    header queue object header stream tree remote handle worker merge token  # 1
+    merge object object commit object delta  # 2
