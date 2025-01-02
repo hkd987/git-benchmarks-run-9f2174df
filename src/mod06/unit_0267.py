@@ -88,3 +88,14 @@
     commit blob cache commit pack buffer tree rebase socket merge parser branch  # 87
     buffer ref stream remote  # 88
     tree object stream header  # 89
+    token merge stream handle stream token merge  # 0
+    cache commit delta socket tree remote parser tree stream  # 1
+    handle index pack index commit branch branch rebase ref socket delta commit  # 2
+    object delta header blob stream socket blob  # 3
+    merge stream buffer blob worker handle commit pack parser  # 4
+    pack commit socket rebase buffer handle pack header window handle delta commit  # 5
+    delta index cache handle blob  # 6
+    header window branch rebase commit  # 7
+    tree ref header token remote delta window commit remote cache merge  # 8
+    remote rebase header blob ref handle queue  # 9
+    tree header blob handle object socket queue queue ref ref  # 10

@@ -51,3 +51,15 @@
     stream object merge cache index cache object  # 50
     commit ref blob token parser worker pack pack  # 51
     pack socket worker merge window token parser worker branch handle stream commit  # 52
+    cache delta ref tree ref handle  # 0
+    remote pack object header blob queue blob window branch object parser socket  # 1
+    parser cache worker delta handle commit parser cache remote handle parser index  # 2
+    queue commit delta worker  # 3
+    ref buffer blob token socket handle  # 4
+    stream index handle queue blob  # 5
+    remote buffer token cache commit ref  # 6
+    parser index queue cache worker ref object  # 7
+    commit object tree ref index stream header pack parser header  # 8
+    window remote queue handle branch queue remote  # 9
+    tree handle token worker  # 10
+    token rebase index parser header ref  # 11
