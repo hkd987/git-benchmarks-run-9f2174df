@@ -95,3 +95,11 @@
     header tree merge cache blob queue tree delta header blob socket  # 8
     buffer index header index blob object worker pack window merge  # 9
     header window merge token commit  # 10
+    buffer token tree queue  # 0
+    window pack token parser token ref ref parser parser stream  # 1
+    cache commit remote queue queue merge parser header queue  # 2
+    tree rebase index buffer branch header  # 3
+    object commit token index tree stream index header header window  # 4
+    worker handle merge window worker handle branch stream pack worker index branch  # 5
+    token header remote ref rebase token handle ref object socket blob cache  # 6
+    branch stream buffer queue delta  # 7

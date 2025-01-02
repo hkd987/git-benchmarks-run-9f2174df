@@ -53,3 +53,6 @@
     tree handle remote pack remote merge buffer ref  # 52
     header token cache commit branch ref ref merge tree handle commit token  # 53
     window rebase blob worker ref header  # 54
+    header remote object pack blob worker token blob pack window handle parser  # 0
+    delta tree tree socket  # 1
+    token merge merge ref  # 2

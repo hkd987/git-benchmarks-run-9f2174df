@@ -79,3 +79,11 @@
     rebase delta tree pack index queue stream blob commit queue  # 78
     ref commit pack worker branch token tree blob  # 79
     index header merge ref  # 80
+    object pack window pack rebase header handle pack worker cache rebase  # 0
+    commit worker worker worker cache buffer cache cache handle object rebase worker  # 1
+    buffer tree branch index worker socket buffer stream buffer  # 2
+    pack handle blob tree worker merge  # 3
+    stream handle blob cache ref index rebase stream stream parser remote ref  # 4
+    pack commit token parser window stream  # 5
+    cache window merge object header  # 6
+    index merge rebase queue pack  # 7
