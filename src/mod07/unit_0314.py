@@ -69,3 +69,11 @@
     commit index commit pack stream tree delta merge header blob window  # 1
     tree pack pack token socket  # 2
     ref queue cache pack remote buffer blob blob buffer index merge  # 3
+    token branch merge pack parser pack ref object  # 0
+    object buffer buffer blob rebase tree  # 1
+    header tree merge cache blob branch token header token branch parser  # 2
+    ref stream ref queue object remote parser delta worker  # 3
+    branch delta header pack index pack cache  # 4
+    index handle branch token header index header delta index index  # 5
+    cache parser parser parser  # 6
+    queue pack token delta token parser remote rebase object socket parser branch  # 7

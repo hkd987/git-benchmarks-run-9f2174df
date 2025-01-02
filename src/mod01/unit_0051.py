@@ -42,3 +42,8 @@
     tree index stream window delta handle ref queue  # 41
     delta pack stream worker branch  # 42
     stream index remote socket  # 43
+    handle rebase queue parser queue header index window socket  # 0
+    branch pack tree worker parser remote queue object delta handle cache  # 1
+    commit remote queue branch object merge index object header  # 2
+    pack handle window ref tree cache cache commit handle worker  # 3
+    blob socket object parser ref queue  # 4
