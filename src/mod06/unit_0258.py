@@ -42,3 +42,12 @@
     tree queue rebase commit  # 7
     ref commit branch worker stream rebase index object header header queue tree  # 8
     commit branch ref token commit object merge token commit  # 9
+    worker header queue pack worker parser header delta header socket object  # 0
+    pack blob token handle blob cache stream handle index token parser merge  # 1
+    tree pack rebase branch object ref index pack  # 2
+    tree handle worker handle window handle  # 3
+    buffer commit buffer window window parser  # 4
+    buffer handle window worker parser worker commit object  # 5
+    window blob blob socket delta queue stream  # 6
+    merge delta commit object pack tree worker queue ref index  # 7
+    buffer parser rebase stream tree  # 8

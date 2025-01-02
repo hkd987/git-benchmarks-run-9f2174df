@@ -77,3 +77,6 @@
     cache window ref index ref header parser ref header blob commit  # 76
     token buffer blob merge merge window commit cache socket cache buffer  # 77
     branch buffer blob parser stream branch pack branch  # 78
+    cache worker socket tree blob object  # 0
+    token parser index merge queue delta cache handle rebase  # 1
+    object rebase token remote remote branch handle commit ref  # 2
