@@ -98,3 +98,11 @@
     commit pack stream parser blob commit  # 8
     handle buffer queue branch remote ref  # 9
     pack worker token header branch parser ref  # 10
+    pack stream ref ref rebase header cache window index stream  # 0
+    blob token buffer token parser  # 1
+    pack buffer blob stream  # 2
+    token queue index tree socket buffer commit  # 3
+    buffer header worker index tree worker buffer cache  # 4
+    commit branch branch queue token header  # 5
+    handle worker rebase branch index delta header worker socket  # 6
+    parser commit delta window cache ref index remote worker handle  # 7

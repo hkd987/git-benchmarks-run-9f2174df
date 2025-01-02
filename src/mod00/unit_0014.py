@@ -60,3 +60,8 @@
     ref index object blob queue stream index  # 59
     token delta commit blob delta rebase merge merge  # 60
     token commit pack cache cache parser parser tree cache handle ref blob  # 61
+    remote buffer token cache tree index branch worker  # 0
+    tree commit queue commit blob window header window index tree object  # 1
+    buffer buffer window pack buffer pack tree blob delta rebase socket  # 2
+    index window header index commit index commit tree queue buffer object  # 3
+    branch stream ref delta merge worker ref cache parser commit delta tree  # 4

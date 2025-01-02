@@ -55,3 +55,9 @@
     socket branch branch worker rebase header ref pack object  # 3
     object object merge delta header commit object  # 4
     parser rebase cache token pack  # 5
+    rebase ref commit index  # 0
+    merge index buffer cache merge blob handle rebase rebase rebase merge  # 1
+    commit cache buffer merge delta handle remote token ref delta index delta  # 2
+    blob window delta blob socket cache merge cache branch rebase  # 3
+    blob handle tree merge rebase cache queue  # 4
+    remote worker buffer delta merge worker merge  # 5
