@@ -47,3 +47,8 @@
     socket header branch branch rebase object index remote pack parser header merge  # 11
     buffer remote queue index parser ref parser remote worker ref  # 12
     index rebase tree merge token buffer blob index  # 13
+    worker token remote handle header  # 0
+    delta merge index buffer queue cache tree token rebase parser window queue  # 1
+    window branch tree branch parser header merge rebase worker cache worker queue  # 2
+    socket branch stream header  # 3
+    tree queue index token delta token rebase ref cache ref stream  # 4

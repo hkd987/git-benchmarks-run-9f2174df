@@ -76,3 +76,8 @@
     buffer pack index handle token  # 75
     blob delta commit socket  # 76
     delta commit delta window header header object cache cache merge index cache  # 77
+    pack buffer tree queue object delta delta parser branch queue pack commit  # 0
+    buffer header commit worker  # 1
+    cache blob parser buffer buffer buffer  # 2
+    socket header index rebase tree tree delta parser  # 3
+    remote tree blob queue handle worker tree  # 4
