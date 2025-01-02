@@ -48,3 +48,7 @@
     cache delta cache index tree header branch pack blob  # 5
     worker tree branch merge remote  # 6
     token branch merge cache  # 7
+    socket stream buffer commit  # 0
+    cache window pack socket delta window window commit buffer branch cache header  # 1
+    rebase worker commit delta  # 2
+    queue tree blob socket token  # 3

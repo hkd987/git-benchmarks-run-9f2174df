@@ -57,3 +57,7 @@
     cache remote commit cache index pack pack ref blob token rebase socket  # 56
     remote ref tree rebase object  # 57
     header parser tree ref window window index header window  # 58
+    branch stream object worker index stream  # 0
+    parser tree header object blob ref blob  # 1
+    handle cache merge commit  # 2
+    worker stream handle merge header cache blob remote  # 3
