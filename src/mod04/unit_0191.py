@@ -60,3 +60,10 @@
     index delta worker stream  # 59
     header delta window stream parser merge merge parser object cache pack token  # 60
     handle socket delta token ref handle handle remote remote commit pack stream  # 61
+    socket pack blob remote  # 0
+    blob index commit header remote pack token object token cache  # 1
+    window token pack blob  # 2
+    parser tree header delta stream pack parser merge commit  # 3
+    stream token token pack worker merge remote  # 4
+    stream handle tree socket worker queue header branch queue pack delta  # 5
+    delta merge window blob delta blob parser blob parser delta  # 6
