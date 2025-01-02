@@ -33,3 +33,9 @@
     blob parser parser delta  # 32
     cache blob worker object  # 33
     merge object parser merge remote window ref  # 34
+    merge tree stream queue commit merge remote commit delta socket buffer branch  # 0
+    worker merge worker index socket tree  # 1
+    tree queue window commit rebase branch ref stream queue  # 2
+    index index window ref stream  # 3
+    buffer remote ref ref  # 4
+    object queue cache header window stream stream stream  # 5

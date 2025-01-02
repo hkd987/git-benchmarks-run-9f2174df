@@ -73,3 +73,6 @@
     index window stream stream blob stream handle  # 72
     token blob header worker branch branch handle  # 73
     commit handle blob blob delta index blob merge socket handle branch commit  # 74
+    socket cache socket stream index header pack token delta window  # 0
+    branch handle window delta handle commit branch handle token rebase  # 1
+    window worker token branch branch index delta index stream  # 2
