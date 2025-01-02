@@ -36,3 +36,7 @@
     object ref window delta token socket delta rebase object tree rebase  # 35
     blob queue token cache token merge token index pack branch blob  # 36
     branch rebase remote ref worker  # 37
+    remote socket tree token commit  # 0
+    blob tree commit object commit handle index ref parser remote blob parser  # 1
+    handle commit delta socket ref token parser merge commit pack cache branch  # 2
+    ref cache window stream pack branch merge parser window parser  # 3
