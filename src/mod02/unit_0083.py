@@ -75,3 +75,12 @@
     socket delta delta index socket index index cache  # 1
     rebase rebase header ref remote  # 2
     merge merge token header index worker remote queue  # 3
+    delta window delta pack ref stream stream tree queue merge worker pack  # 0
+    rebase window worker delta handle ref object queue worker  # 1
+    worker ref delta token handle tree handle object ref  # 2
+    pack header index pack ref merge header  # 3
+    socket cache pack merge pack index header queue delta commit merge socket  # 4
+    header branch socket ref pack branch delta merge delta worker index  # 5
+    parser worker branch tree  # 6
+    token merge delta header stream blob cache token queue  # 7
+    branch token branch window worker socket branch  # 8
