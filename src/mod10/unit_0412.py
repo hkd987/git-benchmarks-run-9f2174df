@@ -84,3 +84,13 @@
     parser delta socket queue branch blob window  # 83
     remote buffer queue window token  # 84
     worker branch ref token stream merge  # 85
+    tree merge queue socket socket token  # 0
+    parser index header pack window index parser index  # 1
+    index stream socket merge queue object index merge rebase socket merge remote  # 2
+    handle queue token parser blob worker stream blob pack parser rebase ref  # 3
+    object stream commit token branch queue socket commit commit token header  # 4
+    parser parser handle branch blob parser stream stream window  # 5
+    delta remote parser rebase stream handle index  # 6
+    commit pack window branch  # 7
+    blob queue merge delta branch  # 8
+    tree socket blob commit parser header rebase delta socket index branch  # 9

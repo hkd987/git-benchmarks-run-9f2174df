@@ -44,3 +44,9 @@
     rebase commit cache merge  # 43
     rebase buffer queue queue branch commit  # 44
     header blob stream stream tree remote index  # 45
+    parser stream branch commit header tree pack  # 0
+    queue rebase handle handle commit handle tree  # 1
+    remote ref socket tree cache queue commit commit parser buffer merge blob  # 2
+    window remote header parser stream queue remote merge delta queue merge merge  # 3
+    object buffer tree parser window handle  # 4
+    ref stream token cache merge socket  # 5
