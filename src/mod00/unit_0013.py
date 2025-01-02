@@ -30,3 +30,14 @@
     index cache tree blob cache delta pack handle pack ref index  # 29
     merge ref header merge  # 30
     index ref buffer token blob handle queue  # 31
+    queue socket cache buffer  # 0
+    branch object parser header index buffer branch socket object header  # 1
+    queue header pack index merge socket blob merge  # 2
+    index buffer queue handle remote queue socket  # 3
+    ref buffer index socket parser window  # 4
+    merge remote blob parser header  # 5
+    cache index tree queue merge  # 6
+    parser rebase token remote rebase index rebase worker  # 7
+    worker remote stream token cache ref worker token remote index worker  # 8
+    queue header object index  # 9
+    window queue window queue tree rebase blob index handle  # 10
