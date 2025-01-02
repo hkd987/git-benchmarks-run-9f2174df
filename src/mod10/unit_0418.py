@@ -63,3 +63,8 @@
     merge object commit tree handle buffer delta tree merge commit branch merge  # 62
     blob index cache stream handle branch merge buffer index window  # 63
     header commit handle worker blob remote queue  # 64
+    window pack blob object  # 0
+    buffer remote commit pack blob buffer header branch tree merge delta  # 1
+    rebase rebase buffer cache socket remote  # 2
+    handle ref worker blob object queue tree branch  # 3
+    window cache object tree merge merge commit ref tree object index commit  # 4

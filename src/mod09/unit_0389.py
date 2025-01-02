@@ -37,3 +37,7 @@
     commit cache buffer ref stream buffer tree socket tree commit buffer merge  # 36
     remote remote pack worker branch branch cache ref parser commit object handle  # 37
     parser token commit window  # 38
+    delta header blob window branch  # 0
+    remote buffer delta index cache socket  # 1
+    header branch token window object  # 2
+    pack commit token remote token object ref worker merge object pack rebase  # 3

@@ -84,3 +84,11 @@
     pack ref handle window merge socket stream socket rebase queue parser token  # 83
     worker branch cache ref worker delta worker  # 84
     handle worker merge branch token queue rebase rebase queue stream object  # 85
+    worker buffer index socket header pack stream delta  # 0
+    branch stream stream pack header delta remote ref handle  # 1
+    parser cache worker pack buffer delta merge pack window handle  # 2
+    rebase queue buffer pack tree buffer commit tree merge socket  # 3
+    stream index pack worker window  # 4
+    branch parser window token remote  # 5
+    socket commit header buffer delta merge token window pack index window header  # 6
+    merge window commit token token tree  # 7
