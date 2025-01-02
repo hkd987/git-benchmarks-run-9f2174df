@@ -56,3 +56,14 @@
     header remote object pack blob worker token blob pack window handle parser  # 0
     delta tree tree socket  # 1
     token merge merge ref  # 2
+    index window stream ref tree handle branch  # 0
+    window worker object merge handle remote socket pack delta token  # 1
+    merge window worker delta  # 2
+    remote remote cache queue handle object pack  # 3
+    window token buffer queue queue queue socket object tree  # 4
+    worker merge commit tree  # 5
+    token ref branch queue window header delta  # 6
+    ref tree blob header tree token ref cache  # 7
+    object pack worker index delta window tree commit ref rebase  # 8
+    index stream worker branch header buffer cache header worker window  # 9
+    header socket ref merge object delta queue delta commit parser  # 10

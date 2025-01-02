@@ -70,3 +70,11 @@
     rebase token commit blob  # 69
     socket rebase merge tree worker queue window commit socket  # 70
     socket buffer commit object ref commit  # 71
+    window token blob object  # 0
+    remote queue rebase token index ref  # 1
+    blob pack worker index header index rebase queue ref  # 2
+    remote branch tree remote worker worker parser handle window commit blob  # 3
+    queue branch object rebase blob  # 4
+    pack branch remote merge window parser cache header socket cache  # 5
+    commit socket merge object branch commit token index merge  # 6
+    object parser commit index  # 7

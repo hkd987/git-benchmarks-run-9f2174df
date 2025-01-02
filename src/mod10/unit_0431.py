@@ -28,3 +28,9 @@
     queue buffer socket object delta  # 27
     stream branch tree header  # 28
     queue pack handle token cache commit  # 29
+    buffer commit socket header rebase buffer ref worker remote index  # 0
+    pack queue ref window window  # 1
+    delta remote pack cache ref pack merge  # 2
+    parser ref blob window tree object  # 3
+    parser commit queue object  # 4
+    commit tree delta merge handle queue index blob socket parser cache  # 5

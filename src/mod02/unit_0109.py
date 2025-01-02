@@ -60,3 +60,6 @@
     merge blob delta stream blob remote token cache  # 8
     merge cache pack object worker delta cache window worker handle  # 9
     cache commit socket worker window token queue worker token queue cache buffer  # 10
+    pack merge header socket handle window merge blob worker delta  # 0
+    merge cache parser pack handle rebase commit header header cache index handle  # 1
+    blob ref worker tree worker merge tree handle ref ref tree token  # 2
