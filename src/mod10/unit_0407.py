@@ -93,3 +93,14 @@
     worker blob tree rebase  # 12
     token pack object rebase handle  # 13
     worker stream rebase token ref buffer blob index  # 14
+    merge window branch merge commit pack blob branch delta window remote  # 0
+    blob handle tree rebase remote buffer commit window  # 1
+    worker buffer tree tree merge  # 2
+    buffer commit stream handle handle index merge  # 3
+    socket index remote object cache delta  # 4
+    rebase queue parser delta  # 5
+    ref buffer pack remote merge stream blob  # 6
+    blob tree handle handle worker  # 7
+    queue handle branch rebase worker object  # 8
+    queue stream worker buffer index token  # 9
+    branch commit tree delta rebase stream buffer token commit object  # 10
