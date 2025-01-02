@@ -94,3 +94,6 @@
     object parser handle socket queue remote  # 8
     commit buffer parser index worker merge stream remote ref index merge stream  # 9
     token stream tree rebase  # 10
+    queue commit commit branch  # 0
+    rebase parser socket pack blob blob branch ref remote window header  # 1
+    object queue blob buffer rebase token buffer  # 2

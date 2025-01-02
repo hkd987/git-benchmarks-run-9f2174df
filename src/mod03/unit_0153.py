@@ -86,3 +86,8 @@
     queue merge commit delta branch pack branch socket blob ref token remote  # 85
     buffer object delta blob  # 86
     handle parser remote branch branch tree parser window socket delta  # 87
+    object handle socket stream  # 0
+    header worker handle parser window worker  # 1
+    rebase remote cache header stream remote window  # 2
+    worker parser object blob index buffer blob cache  # 3
+    index window token worker stream header worker  # 4

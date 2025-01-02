@@ -62,3 +62,12 @@
     queue rebase delta queue token window header  # 12
     handle header merge blob buffer  # 13
     tree index ref buffer delta token window merge window socket parser worker  # 14
+    tree buffer pack window stream handle parser blob handle  # 0
+    header handle socket window tree  # 1
+    object ref merge ref stream tree  # 2
+    window header rebase worker handle commit cache tree cache merge  # 3
+    merge index blob pack cache  # 4
+    ref token merge pack rebase header worker pack parser window  # 5
+    buffer ref header token branch  # 6
+    cache window blob blob handle rebase worker  # 7
+    commit cache cache ref pack  # 8

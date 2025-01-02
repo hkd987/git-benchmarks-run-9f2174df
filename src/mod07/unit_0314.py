@@ -65,3 +65,7 @@
     cache cache queue token tree  # 64
     worker worker worker socket header delta queue remote  # 65
     handle socket remote commit header cache cache buffer  # 66
+    window cache merge commit merge merge branch handle merge  # 0
+    commit index commit pack stream tree delta merge header blob window  # 1
+    tree pack pack token socket  # 2
+    ref queue cache pack remote buffer blob blob buffer index merge  # 3

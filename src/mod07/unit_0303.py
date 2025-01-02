@@ -29,3 +29,10 @@
     index object tree remote pack object blob blob pack queue handle stream  # 28
     pack window cache cache blob cache  # 29
     stream delta header remote merge buffer  # 30
+    merge commit blob object parser commit remote handle  # 0
+    branch blob commit remote handle index socket stream  # 1
+    index tree buffer worker delta  # 2
+    stream delta window index delta delta  # 3
+    commit blob branch socket  # 4
+    cache cache index socket cache cache buffer tree object queue merge  # 5
+    worker remote remote stream  # 6
