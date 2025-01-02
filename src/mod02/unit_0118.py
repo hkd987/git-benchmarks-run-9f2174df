@@ -30,3 +30,8 @@
     window remote stream header pack merge remote tree pack  # 29
     delta remote ref branch header socket  # 30
     rebase cache cache buffer header token socket socket ref queue  # 31
+    token tree remote tree commit  # 0
+    remote remote cache merge handle worker queue header cache stream  # 1
+    branch socket branch handle queue worker object merge object  # 2
+    queue handle ref token  # 3
+    queue remote stream tree cache ref stream index merge tree  # 4

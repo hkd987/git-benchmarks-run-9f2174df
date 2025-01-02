@@ -36,3 +36,14 @@
     remote cache parser token cache merge  # 35
     rebase index merge parser cache  # 36
     handle queue cache remote rebase remote  # 37
+    token token window remote  # 0
+    token parser ref socket queue handle  # 1
+    socket window tree token ref stream commit stream stream  # 2
+    handle socket tree token branch handle window parser  # 3
+    delta index token cache worker token buffer cache ref  # 4
+    index branch token queue ref branch parser  # 5
+    commit cache handle token index socket buffer cache parser rebase handle object  # 6
+    stream stream object object queue cache  # 7
+    ref parser worker object commit ref branch rebase buffer stream token header  # 8
+    parser socket header cache socket branch  # 9
+    index rebase blob header object branch rebase tree stream  # 10
