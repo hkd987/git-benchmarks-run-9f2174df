@@ -80,3 +80,6 @@
     ref object handle object handle window tree worker stream parser token  # 12
     handle header stream header branch commit handle rebase  # 13
     commit commit tree cache cache delta cache rebase tree  # 14
+    window handle merge worker remote ref token parser queue merge header object  # 0
+    cache socket commit ref delta  # 1
+    merge parser worker rebase ref remote worker cache buffer tree socket tree  # 2
