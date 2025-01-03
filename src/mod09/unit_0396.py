@@ -41,3 +41,6 @@
     index stream branch handle queue  # 40
     parser rebase merge stream parser  # 41
     object ref rebase queue worker index blob  # 42
+    buffer index header stream  # 0
+    cache merge socket rebase merge stream branch blob  # 1
+    tree merge cache index  # 2
