@@ -90,3 +90,10 @@
     cache cache queue delta delta handle  # 0
     rebase parser cache socket socket  # 1
     commit branch delta rebase handle rebase blob remote pack worker  # 2
+    blob buffer window cache socket merge socket window handle  # 0
+    cache stream commit tree queue cache handle  # 1
+    worker pack rebase buffer token parser  # 2
+    token handle ref rebase ref buffer delta parser worker object  # 3
+    handle tree handle parser merge ref buffer stream stream queue merge index  # 4
+    parser header ref branch delta remote  # 5
+    pack remote branch object delta delta merge window merge object buffer socket  # 6

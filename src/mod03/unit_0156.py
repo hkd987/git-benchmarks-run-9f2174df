@@ -76,3 +76,10 @@
     rebase merge parser header commit ref rebase blob index queue cache buffer  # 75
     merge stream handle remote branch parser token merge handle parser ref  # 76
     merge buffer token rebase queue cache  # 77
+    token rebase blob ref worker commit object blob branch token cache buffer  # 0
+    merge remote rebase merge index delta buffer tree blob token  # 1
+    index worker rebase worker queue handle worker token  # 2
+    worker socket cache buffer rebase pack remote header commit stream pack tree  # 3
+    socket index header index buffer  # 4
+    token worker object remote queue index commit header  # 5
+    remote delta worker remote rebase merge header  # 6
