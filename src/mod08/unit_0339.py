@@ -46,3 +46,9 @@
     stream buffer tree merge rebase branch handle index  # 2
     object remote window tree branch blob pack  # 3
     window queue object token  # 4
+    cache stream pack tree  # 0
+    cache header blob worker parser token commit parser header header worker queue  # 1
+    pack queue header merge remote window token stream stream pack worker queue  # 2
+    blob rebase ref handle socket pack remote rebase  # 3
+    window parser buffer pack token ref ref stream  # 4
+    worker stream cache window  # 5

@@ -104,3 +104,10 @@
     parser stream cache pack parser delta header delta socket socket queue queue  # 7
     remote tree ref object commit window buffer pack cache queue stream delta  # 8
     cache token parser worker branch ref header index token parser remote  # 9
+    ref window handle index window index ref  # 0
+    parser cache tree worker cache branch handle pack  # 1
+    blob object ref merge buffer ref  # 2
+    socket parser rebase token stream buffer  # 3
+    blob blob branch parser index stream window branch branch parser  # 4
+    branch index buffer pack blob stream index  # 5
+    queue tree ref buffer window tree delta blob  # 6
