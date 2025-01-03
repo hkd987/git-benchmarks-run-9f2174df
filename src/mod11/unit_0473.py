@@ -67,3 +67,12 @@
     parser socket commit cache handle pack merge  # 66
     tree cache stream tree socket cache  # 67
     commit remote stream rebase tree  # 68
+    cache queue buffer cache header  # 0
+    branch cache rebase queue rebase cache socket parser worker  # 1
+    stream stream ref commit  # 2
+    worker handle buffer rebase merge worker handle  # 3
+    stream cache merge stream stream index branch remote  # 4
+    window tree worker merge index stream commit commit index  # 5
+    rebase buffer rebase merge blob queue  # 6
+    branch pack header delta index tree  # 7
+    tree handle branch worker branch cache token tree window index  # 8

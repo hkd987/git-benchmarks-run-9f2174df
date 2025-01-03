@@ -40,3 +40,12 @@
     blob tree commit object commit handle index ref parser remote blob parser  # 1
     handle commit delta socket ref token parser merge commit pack cache branch  # 2
     ref cache window stream pack branch merge parser window parser  # 3
+    socket tree socket socket  # 0
+    commit stream header index handle ref token parser  # 1
+    queue rebase tree pack window tree queue socket parser ref  # 2
+    socket blob cache window  # 3
+    branch ref object socket cache merge  # 4
+    token commit stream worker queue  # 5
+    cache delta ref blob tree header handle  # 6
+    blob handle delta handle window delta object object  # 7
+    object delta header tree buffer header token stream  # 8

@@ -71,3 +71,7 @@
     index pack pack stream header handle rebase branch worker merge branch  # 9
     delta blob blob delta merge ref delta tree remote  # 10
     ref object queue socket header remote  # 11
+    rebase rebase rebase blob tree worker remote  # 0
+    socket blob queue parser delta pack cache socket  # 1
+    stream remote merge worker buffer branch branch stream  # 2
+    window rebase socket tree  # 3
