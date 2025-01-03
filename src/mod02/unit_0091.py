@@ -58,3 +58,9 @@
     header queue object index handle ref commit header  # 11
     token buffer object object queue  # 12
     delta index delta buffer socket commit  # 13
+    queue delta merge stream  # 0
+    object ref worker merge ref stream socket object merge tree  # 1
+    header rebase cache commit parser index remote merge merge delta  # 2
+    blob delta queue rebase token  # 3
+    queue buffer branch socket rebase socket header delta blob  # 4
+    handle queue socket window rebase commit  # 5
