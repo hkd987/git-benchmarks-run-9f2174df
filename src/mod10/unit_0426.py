@@ -80,3 +80,7 @@
     blob tree ref cache tree window window queue merge window header token  # 79
     merge branch worker rebase delta merge socket window window delta  # 80
     header rebase rebase queue blob commit worker window  # 81
+    cache stream rebase pack buffer handle token stream buffer remote window buffer  # 0
+    buffer worker handle worker cache remote delta parser rebase parser pack  # 1
+    tree commit socket merge index blob buffer buffer merge parser  # 2
+    header worker cache index  # 3
