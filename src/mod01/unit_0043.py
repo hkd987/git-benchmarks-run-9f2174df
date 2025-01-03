@@ -55,3 +55,7 @@
     buffer header socket queue  # 6
     stream token blob blob  # 7
     stream window token buffer tree rebase cache tree ref  # 8
+    tree delta blob buffer socket handle  # 0
+    socket index delta remote blob commit remote token delta  # 1
+    handle rebase delta commit object index index window stream  # 2
+    buffer token queue parser socket rebase  # 3

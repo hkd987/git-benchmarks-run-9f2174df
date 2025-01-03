@@ -64,3 +64,9 @@
     parser pack header token  # 63
     tree remote header stream socket  # 64
     pack token socket worker handle header buffer window delta  # 65
+    blob queue cache buffer merge token blob ref  # 0
+    commit ref worker delta  # 1
+    blob ref header merge worker socket remote tree header buffer  # 2
+    token header pack cache queue  # 3
+    blob pack pack stream buffer commit  # 4
+    handle header stream window tree socket socket token queue branch delta  # 5

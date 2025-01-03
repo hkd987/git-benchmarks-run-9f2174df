@@ -52,3 +52,8 @@
     object merge remote stream tree branch worker remote rebase header cache  # 12
     tree rebase remote buffer buffer pack remote merge remote delta  # 13
     worker socket token buffer blob commit worker branch branch worker  # 14
+    remote blob queue parser socket  # 0
+    commit delta stream worker buffer queue remote socket  # 1
+    merge handle rebase delta index parser merge object remote queue remote  # 2
+    delta window delta socket  # 3
+    cache pack cache pack delta rebase branch stream worker branch  # 4

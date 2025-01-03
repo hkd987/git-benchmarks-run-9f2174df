@@ -47,3 +47,7 @@
     object object tree branch worker worker socket buffer  # 46
     commit socket blob handle stream  # 47
     parser merge merge header handle pack worker rebase ref window socket  # 48
+    index delta socket handle rebase pack ref cache cache socket  # 0
+    parser header handle buffer socket pack object commit window queue  # 1
+    branch queue branch worker queue rebase merge stream  # 2
+    merge object stream stream stream buffer  # 3
