@@ -37,3 +37,6 @@
     tree rebase socket remote merge cache socket blob parser  # 36
     parser queue branch blob parser  # 37
     commit buffer parser delta blob token  # 38
+    socket object worker handle queue branch stream tree rebase  # 0
+    remote merge tree ref header queue branch tree parser  # 1
+    tree index blob header window blob index worker  # 2

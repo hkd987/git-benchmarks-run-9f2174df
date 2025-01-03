@@ -61,3 +61,7 @@
     socket rebase delta queue handle  # 60
     queue handle object remote token remote stream delta  # 61
     worker socket tree cache cache  # 62
+    rebase tree remote header blob header window  # 0
+    index parser parser queue cache delta remote  # 1
+    stream window header index index worker  # 2
+    queue delta cache buffer index remote cache header index merge buffer  # 3

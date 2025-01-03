@@ -64,3 +64,10 @@
     blob delta queue rebase token  # 3
     queue buffer branch socket rebase socket header delta blob  # 4
     handle queue socket window rebase commit  # 5
+    socket remote rebase cache socket cache  # 0
+    socket cache commit blob object  # 1
+    ref stream worker rebase blob remote  # 2
+    cache rebase branch buffer buffer commit commit pack pack stream  # 3
+    ref commit parser window tree window buffer commit window pack  # 4
+    buffer socket tree delta object  # 5
+    buffer header pack rebase  # 6

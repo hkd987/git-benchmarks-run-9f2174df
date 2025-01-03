@@ -78,3 +78,6 @@
     blob remote delta socket handle  # 0
     header queue object header stream tree remote handle worker merge token  # 1
     merge object object commit object delta  # 2
+    handle worker token window ref header blob buffer index  # 0
+    object delta queue cache socket buffer object delta  # 1
+    index socket handle pack cache stream commit merge queue object rebase queue  # 2

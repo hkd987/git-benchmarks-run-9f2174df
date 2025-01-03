@@ -48,3 +48,6 @@
     cache remote commit parser queue buffer worker delta merge  # 47
     merge commit object stream socket remote  # 48
     merge commit merge remote queue object header commit handle remote  # 49
+    commit merge queue queue worker delta object merge  # 0
+    window cache index remote  # 1
+    buffer window queue handle window tree  # 2
