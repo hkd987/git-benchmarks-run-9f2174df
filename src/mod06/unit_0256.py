@@ -37,3 +37,15 @@
     window header stream socket merge commit token window tree  # 6
     worker queue rebase index merge object commit ref token  # 7
     buffer branch delta handle window commit buffer  # 8
+    queue commit socket index tree worker parser queue queue merge worker  # 0
+    token pack ref header delta ref object object object pack cache parser  # 1
+    remote ref token pack  # 2
+    queue branch index branch rebase socket tree socket rebase socket  # 3
+    index cache token header ref merge header index stream token socket  # 4
+    rebase socket delta index delta rebase branch remote header queue merge  # 5
+    window merge stream parser worker handle socket  # 6
+    ref pack handle ref parser ref stream delta  # 7
+    token merge buffer token  # 8
+    branch header delta merge branch  # 9
+    rebase handle pack tree socket remote branch pack stream remote stream branch  # 10
+    delta cache pack delta cache queue rebase window  # 11

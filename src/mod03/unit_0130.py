@@ -70,3 +70,8 @@
     token header pack cache queue  # 3
     blob pack pack stream buffer commit  # 4
     handle header stream window tree socket socket token queue branch delta  # 5
+    commit remote delta blob  # 0
+    window index stream object index handle  # 1
+    window index object header header merge handle commit  # 2
+    rebase window delta buffer pack tree delta object  # 3
+    rebase tree delta rebase window commit remote  # 4
