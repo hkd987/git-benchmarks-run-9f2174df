@@ -100,3 +100,17 @@
     commit delta header commit queue blob window index header handle  # 11
     delta remote cache cache delta header ref  # 12
     ref commit worker object  # 13
+    commit rebase header rebase window object commit handle token rebase  # 0
+    buffer object cache object cache  # 1
+    ref cache commit object header socket  # 2
+    delta tree token token ref  # 3
+    queue queue object buffer socket  # 4
+    merge socket object object commit  # 5
+    remote queue header pack handle  # 6
+    worker worker pack commit blob worker commit  # 7
+    ref index cache handle delta object  # 8
+    commit blob tree socket index handle object delta buffer branch header  # 9
+    socket ref token ref index object cache object object delta  # 10
+    header token delta branch parser tree cache branch delta  # 11
+    token socket branch parser handle header remote index header header handle token  # 12
+    object pack header parser rebase worker blob ref  # 13

@@ -40,3 +40,14 @@
     merge window object window  # 39
     merge parser handle branch header handle buffer  # 40
     tree rebase object remote ref worker index  # 41
+    rebase delta ref queue index token  # 0
+    pack ref commit branch delta queue stream rebase  # 1
+    commit stream buffer buffer socket parser  # 2
+    remote buffer index commit  # 3
+    buffer branch buffer handle window  # 4
+    index tree worker delta blob tree commit stream  # 5
+    socket window parser token pack remote  # 6
+    pack stream worker header rebase header queue  # 7
+    index parser index index rebase remote rebase blob rebase socket queue  # 8
+    worker header parser socket window header delta worker  # 9
+    worker stream merge window remote worker socket branch commit commit window  # 10

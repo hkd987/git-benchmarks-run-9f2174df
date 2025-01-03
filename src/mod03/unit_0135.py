@@ -36,3 +36,10 @@
     commit handle token queue pack merge parser  # 35
     index queue cache index buffer header index  # 36
     stream window cache blob queue  # 37
+    ref index commit socket object merge commit  # 0
+    parser parser stream rebase blob socket blob pack socket merge parser index  # 1
+    pack tree index header merge  # 2
+    queue branch socket header merge buffer index commit worker branch  # 3
+    merge delta index socket cache pack index tree rebase  # 4
+    merge merge branch ref handle handle tree worker object  # 5
+    rebase object parser object object header cache queue  # 6

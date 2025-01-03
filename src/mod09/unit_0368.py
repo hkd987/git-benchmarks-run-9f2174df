@@ -49,3 +49,10 @@
     stream object index blob parser worker  # 48
     merge worker blob rebase worker blob merge socket  # 49
     token rebase buffer merge socket ref index rebase  # 50
+    pack ref branch object  # 0
+    header cache remote stream delta socket  # 1
+    header worker window index ref ref socket worker merge socket buffer  # 2
+    blob tree tree blob parser index tree  # 3
+    queue index remote handle socket queue worker window cache token parser stream  # 4
+    token delta rebase index cache  # 5
+    window socket tree remote parser window rebase cache rebase  # 6
