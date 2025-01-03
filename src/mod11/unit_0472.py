@@ -72,3 +72,6 @@
     tree delta ref tree branch blob blob header  # 7
     remote merge parser handle delta object remote branch  # 8
     branch cache object window  # 9
+    buffer handle tree object commit token  # 0
+    buffer delta parser merge merge delta stream socket branch  # 1
+    cache pack remote remote socket object object  # 2

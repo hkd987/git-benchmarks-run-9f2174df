@@ -40,3 +40,13 @@
     stream ref object window header ref index merge  # 39
     rebase header handle merge ref window blob ref  # 40
     index header object pack  # 41
+    token handle worker object object stream queue window  # 0
+    branch blob blob merge header token delta blob header  # 1
+    buffer tree pack buffer tree queue tree index worker remote blob  # 2
+    merge rebase ref remote  # 3
+    merge token token index tree remote ref tree blob remote delta  # 4
+    worker blob cache header buffer tree worker object commit window handle  # 5
+    window rebase merge cache pack delta delta  # 6
+    socket merge ref tree pack tree stream worker merge merge cache  # 7
+    remote worker socket merge object token commit stream remote socket queue  # 8
+    object cache blob blob queue rebase window merge ref blob  # 9

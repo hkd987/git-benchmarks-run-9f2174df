@@ -51,3 +51,6 @@
     queue branch blob delta blob delta object cache delta ref commit tree  # 5
     index stream handle remote token delta handle token  # 6
     commit delta buffer handle commit  # 7
+    pack ref object queue index pack header branch header  # 0
+    branch stream queue tree window merge ref stream token  # 1
+    ref commit remote worker object handle index tree  # 2
