@@ -54,3 +54,8 @@
     tree header token remote merge buffer remote delta delta index  # 9
     stream tree delta socket  # 10
     worker merge worker merge window cache token stream commit worker delta socket  # 11
+    parser window delta object socket remote token window window remote header branch  # 0
+    window cache header window buffer socket  # 1
+    branch socket socket remote tree buffer delta  # 2
+    pack buffer ref rebase remote parser queue tree buffer object worker  # 3
+    merge stream stream delta socket index cache socket object  # 4

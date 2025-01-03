@@ -65,3 +65,6 @@
     index parser parser queue cache delta remote  # 1
     stream window header index index worker  # 2
     queue delta cache buffer index remote cache header index merge buffer  # 3
+    token tree rebase header blob branch  # 0
+    commit stream window ref  # 1
+    rebase parser object socket  # 2
