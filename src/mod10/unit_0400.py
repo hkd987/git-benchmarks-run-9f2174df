@@ -80,3 +80,18 @@
     branch branch index remote handle object stream remote socket stream object  # 79
     token handle header token remote  # 80
     stream branch index ref merge delta blob ref ref  # 81
+    pack remote ref pack  # 0
+    branch rebase tree delta index object pack ref tree  # 1
+    delta object tree buffer header  # 2
+    merge branch worker worker ref remote tree stream parser  # 3
+    blob worker stream buffer window object  # 4
+    stream stream stream worker buffer index cache ref  # 5
+    rebase index merge cache queue delta blob delta  # 6
+    merge parser remote commit worker rebase token blob buffer  # 7
+    remote token token delta index blob remote queue ref ref header remote  # 8
+    socket rebase branch tree index header  # 9
+    stream index queue remote  # 10
+    window index rebase index branch ref object  # 11
+    branch delta ref handle buffer object blob queue  # 12
+    stream parser socket handle queue worker ref merge object commit branch  # 13
+    delta branch branch rebase remote socket stream socket token  # 14

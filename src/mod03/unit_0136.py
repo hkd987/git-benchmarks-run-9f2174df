@@ -87,3 +87,8 @@
     socket rebase pack parser parser object pack  # 86
     pack ref rebase tree ref branch merge  # 87
     ref handle pack object worker branch  # 88
+    ref stream rebase blob object cache buffer parser socket  # 0
+    blob header handle token parser merge rebase handle  # 1
+    ref commit delta rebase ref tree cache handle index  # 2
+    delta queue cache socket  # 3
+    queue window handle object merge cache merge parser index token  # 4
