@@ -60,3 +60,6 @@
     rebase ref pack pack handle window rebase rebase cache  # 59
     tree merge tree window  # 60
     window index merge index handle queue parser tree index object  # 61
+    queue rebase tree tree rebase pack window rebase remote  # 0
+    pack parser ref index object object  # 1
+    merge pack rebase commit  # 2
