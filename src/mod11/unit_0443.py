@@ -80,3 +80,11 @@
     window ref worker ref handle commit rebase  # 79
     remote object pack queue worker cache  # 80
     handle pack commit object queue handle branch  # 81
+    blob object pack index token parser pack worker  # 0
+    merge object branch token  # 1
+    header header branch socket pack  # 2
+    object delta blob delta  # 3
+    object object parser branch parser  # 4
+    branch handle window stream  # 5
+    branch index buffer worker blob pack delta queue  # 6
+    window branch token tree cache token rebase window remote queue  # 7

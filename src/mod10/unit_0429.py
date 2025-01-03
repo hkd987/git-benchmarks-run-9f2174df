@@ -82,3 +82,17 @@
     handle socket pack header stream stream header  # 81
     stream header object index commit handle token socket header pack tree  # 82
     delta pack rebase buffer rebase remote object worker stream index object branch  # 83
+    handle blob tree tree  # 0
+    rebase stream header merge blob tree  # 1
+    index handle socket stream delta blob ref token handle cache commit index  # 2
+    token queue remote token delta header  # 3
+    header object object buffer queue window cache index token queue  # 4
+    merge ref worker index blob worker rebase header  # 5
+    worker worker tree stream blob header pack parser delta commit tree merge  # 6
+    object remote remote tree blob header token  # 7
+    queue branch branch merge token  # 8
+    rebase commit tree branch branch token tree header commit delta  # 9
+    commit delta pack merge socket  # 10
+    buffer queue queue token pack stream stream  # 11
+    merge window worker buffer queue remote worker tree branch queue  # 12
+    merge stream socket parser window  # 13

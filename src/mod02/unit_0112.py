@@ -96,3 +96,9 @@
     branch parser rebase handle window delta merge stream parser object  # 9
     tree rebase blob branch object buffer merge  # 10
     rebase socket object index branch socket parser object socket worker  # 11
+    token worker cache index handle pack blob stream rebase socket  # 0
+    pack remote handle commit stream  # 1
+    token queue worker branch buffer stream worker queue pack remote commit  # 2
+    branch header worker token delta parser  # 3
+    token buffer worker tree  # 4
+    ref handle blob object blob  # 5

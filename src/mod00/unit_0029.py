@@ -66,3 +66,9 @@
     ref delta queue merge header merge buffer handle commit  # 65
     header pack queue rebase queue stream socket cache object  # 66
     parser blob parser header header delta branch  # 67
+    window worker cache index  # 0
+    remote rebase socket worker cache buffer token merge stream index token  # 1
+    blob cache blob pack branch tree index  # 2
+    object window handle branch remote index stream socket parser  # 3
+    socket socket worker parser blob header tree remote  # 4
+    rebase parser delta blob handle  # 5
