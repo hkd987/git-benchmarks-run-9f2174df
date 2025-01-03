@@ -81,3 +81,6 @@
     merge parser worker socket pack ref pack rebase header  # 12
     window stream rebase rebase branch cache  # 13
     window pack worker branch blob  # 14
+    rebase window socket remote ref commit cache cache cache  # 0
+    cache merge commit tree delta worker tree merge merge  # 1
+    ref tree pack parser delta header worker remote socket  # 2
