@@ -79,3 +79,9 @@
     tree buffer header cache  # 78
     commit ref handle rebase parser  # 79
     stream cache object parser buffer stream branch  # 80
+    cache buffer merge object header window  # 0
+    pack blob window socket stream token blob commit window parser buffer commit  # 1
+    handle rebase queue branch worker object  # 2
+    blob rebase commit queue cache handle  # 3
+    branch object index handle tree rebase  # 4
+    window object buffer index branch queue pack merge remote window index  # 5

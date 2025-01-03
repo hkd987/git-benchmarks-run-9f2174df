@@ -111,3 +111,11 @@
     blob blob branch parser index stream window branch branch parser  # 4
     branch index buffer pack blob stream index  # 5
     queue tree ref buffer window tree delta blob  # 6
+    token commit commit remote commit remote blob commit handle delta parser  # 0
+    tree delta index blob queue rebase commit token commit object  # 1
+    object header commit index blob stream queue blob  # 2
+    parser handle token stream  # 3
+    tree handle header worker ref  # 4
+    stream remote handle window window remote worker handle  # 5
+    stream object merge worker token tree window buffer token rebase  # 6
+    parser ref cache parser parser index index  # 7

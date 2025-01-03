@@ -50,3 +50,14 @@
     remote token pack merge window pack stream index cache parser token  # 5
     commit tree handle merge branch ref window  # 6
     pack buffer cache cache blob  # 7
+    delta window commit ref cache token blob commit  # 0
+    token header ref cache  # 1
+    header object object commit ref merge worker merge parser  # 2
+    pack window cache parser ref token window ref pack pack object  # 3
+    handle tree window blob token parser  # 4
+    queue tree parser remote stream cache remote  # 5
+    socket index stream header tree delta buffer worker index worker cache  # 6
+    cache object socket handle token branch handle merge buffer parser  # 7
+    pack ref worker cache buffer token merge stream queue stream  # 8
+    object worker ref window index object  # 9
+    parser socket stream parser branch  # 10
