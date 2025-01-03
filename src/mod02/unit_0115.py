@@ -43,3 +43,11 @@
     object object merge blob index  # 42
     merge handle handle queue tree delta rebase  # 43
     buffer token commit window token  # 44
+    object window tree header merge window cache object ref  # 0
+    cache ref rebase pack token commit  # 1
+    object header handle stream pack remote commit delta object handle cache  # 2
+    socket header queue ref blob blob merge branch  # 3
+    index header rebase branch worker handle buffer header merge  # 4
+    queue branch blob delta blob delta object cache delta ref commit tree  # 5
+    index stream handle remote token delta handle token  # 6
+    commit delta buffer handle commit  # 7

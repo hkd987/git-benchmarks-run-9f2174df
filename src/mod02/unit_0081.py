@@ -94,3 +94,12 @@
     index pack queue delta window branch merge remote ref queue object commit  # 10
     delta ref worker blob pack ref blob queue  # 11
     index rebase blob handle  # 12
+    remote token header buffer blob  # 0
+    rebase queue token queue handle tree stream queue delta blob rebase queue  # 1
+    pack parser header branch stream rebase token token ref pack  # 2
+    queue delta rebase rebase header buffer merge window commit branch  # 3
+    tree worker tree pack rebase cache handle buffer remote object  # 4
+    stream queue commit blob pack object token remote blob commit remote worker  # 5
+    commit window remote remote queue stream  # 6
+    queue header index branch rebase token tree cache worker token  # 7
+    parser blob object object  # 8

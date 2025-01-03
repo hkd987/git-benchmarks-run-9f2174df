@@ -39,3 +39,17 @@
     object window queue index queue  # 38
     ref branch ref rebase socket merge blob header  # 39
     commit header tree parser token queue merge ref object tree blob  # 40
+    parser parser cache queue  # 0
+    worker remote header worker pack rebase buffer handle blob worker index  # 1
+    pack blob delta commit socket worker merge merge  # 2
+    blob object header object queue merge index branch buffer pack  # 3
+    parser token merge object window blob blob cache  # 4
+    parser index parser remote cache delta stream  # 5
+    queue socket socket branch ref commit rebase  # 6
+    cache parser worker tree blob merge handle  # 7
+    token ref token branch buffer  # 8
+    rebase pack window queue remote header blob blob  # 9
+    rebase token object token ref token worker delta  # 10
+    delta object socket ref index socket tree worker queue merge  # 11
+    cache commit blob parser header object stream  # 12
+    rebase branch worker branch token  # 13
