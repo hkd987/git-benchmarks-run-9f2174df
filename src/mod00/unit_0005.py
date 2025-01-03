@@ -83,3 +83,8 @@
     blob worker pack commit rebase parser index buffer remote ref commit  # 82
     commit worker remote delta  # 83
     cache tree branch queue remote cache token stream delta queue header  # 84
+    merge blob rebase tree queue tree branch stream pack cache blob parser  # 0
+    tree ref merge token tree token tree branch  # 1
+    window worker queue remote header object commit queue merge rebase socket  # 2
+    header queue queue pack parser index queue stream tree  # 3
+    tree pack parser window cache rebase header  # 4
