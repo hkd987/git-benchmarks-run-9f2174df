@@ -52,3 +52,7 @@
     rebase header remote parser  # 51
     ref stream buffer rebase token delta merge  # 52
     commit ref remote cache cache remote delta  # 53
+    pack blob merge delta rebase delta window commit index cache worker branch  # 0
+    parser ref rebase cache merge tree  # 1
+    merge blob queue buffer handle worker parser  # 2
+    ref buffer blob worker pack parser  # 3
