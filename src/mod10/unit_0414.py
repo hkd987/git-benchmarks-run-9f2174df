@@ -31,3 +31,7 @@
     header delta merge cache header buffer tree branch index delta  # 30
     parser pack rebase window token branch buffer window  # 31
     parser object ref object tree index window queue merge  # 32
+    index merge stream buffer header  # 0
+    header ref token header rebase  # 1
+    rebase branch commit queue branch worker cache queue object parser branch queue  # 2
+    rebase rebase queue window rebase parser remote socket stream worker tree token  # 3

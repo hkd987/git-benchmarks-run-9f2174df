@@ -46,3 +46,9 @@
     pack window header cache stream remote pack header buffer  # 3
     delta blob object branch token  # 4
     object pack socket buffer  # 5
+    delta commit socket commit ref branch header buffer worker  # 0
+    branch ref rebase parser token  # 1
+    token handle branch commit  # 2
+    cache handle queue index object commit  # 3
+    blob delta merge worker rebase  # 4
+    ref buffer branch parser blob header index delta cache pack socket  # 5
