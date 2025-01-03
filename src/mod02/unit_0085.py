@@ -75,3 +75,11 @@
     handle blob commit token buffer stream ref queue stream token  # 74
     delta delta index ref queue  # 75
     handle buffer commit cache buffer  # 76
+    token index socket buffer window object cache delta branch  # 0
+    socket stream branch remote commit handle  # 1
+    index pack buffer branch blob  # 2
+    blob remote parser ref header socket  # 3
+    index object remote pack  # 4
+    merge ref buffer token socket rebase commit object ref handle  # 5
+    ref handle cache parser handle  # 6
+    delta rebase remote socket delta ref handle stream blob window cache  # 7

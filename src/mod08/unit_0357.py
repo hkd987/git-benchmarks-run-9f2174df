@@ -99,3 +99,10 @@
     object parser worker cache commit stream blob parser  # 2
     token merge handle queue cache socket delta buffer object object ref branch  # 3
     object remote branch buffer ref worker socket commit blob commit parser  # 4
+    header commit branch worker branch ref ref stream remote  # 0
+    tree header window buffer token header  # 1
+    remote remote ref buffer rebase handle object remote stream buffer  # 2
+    window ref window index window delta  # 3
+    commit delta pack branch  # 4
+    handle cache blob handle window  # 5
+    index worker stream token branch  # 6

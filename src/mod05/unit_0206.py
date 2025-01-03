@@ -40,3 +40,9 @@
     delta blob merge buffer merge blob token object tree remote stream  # 2
     delta worker blob parser remote index token delta commit worker remote rebase  # 3
     handle handle merge tree buffer worker remote remote  # 4
+    window rebase merge ref cache object remote stream  # 0
+    cache object pack delta object tree  # 1
+    index token parser buffer cache handle token token handle socket  # 2
+    pack window header cache stream remote pack header buffer  # 3
+    delta blob object branch token  # 4
+    object pack socket buffer  # 5
