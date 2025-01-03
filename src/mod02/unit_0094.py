@@ -51,3 +51,7 @@
     remote token branch ref  # 50
     header token object socket buffer parser branch object window header remote  # 51
     buffer ref branch header object worker tree  # 52
+    worker parser pack tree tree window remote delta  # 0
+    commit buffer handle blob parser  # 1
+    handle delta rebase window queue pack worker delta buffer remote  # 2
+    tree buffer index parser tree handle ref branch parser tree  # 3

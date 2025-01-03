@@ -70,3 +70,12 @@
     parser parser worker header branch merge object blob tree  # 4
     rebase ref parser queue  # 5
     buffer blob header stream tree parser  # 6
+    stream parser index worker rebase  # 0
+    socket worker rebase index merge blob merge socket merge handle  # 1
+    blob parser socket parser branch  # 2
+    object worker header header merge header index token  # 3
+    parser socket token cache ref stream tree  # 4
+    buffer blob queue token  # 5
+    branch parser commit remote merge tree cache header branch window  # 6
+    object blob window worker queue handle commit parser tree commit merge  # 7
+    buffer worker cache rebase handle header cache delta  # 8

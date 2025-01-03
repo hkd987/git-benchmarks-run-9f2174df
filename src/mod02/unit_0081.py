@@ -103,3 +103,10 @@
     commit window remote remote queue stream  # 6
     queue header index branch rebase token tree cache worker token  # 7
     parser blob object object  # 8
+    queue ref branch buffer buffer  # 0
+    cache remote ref socket buffer commit object blob index header rebase  # 1
+    window pack index parser socket ref window token cache header  # 2
+    rebase index window queue rebase index ref ref  # 3
+    parser merge tree cache buffer  # 4
+    token delta cache socket socket buffer tree buffer buffer  # 5
+    blob worker delta blob queue  # 6

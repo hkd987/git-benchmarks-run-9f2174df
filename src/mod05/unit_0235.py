@@ -109,3 +109,13 @@
     index ref object remote  # 3
     worker socket merge tree branch index commit delta remote pack  # 4
     buffer commit pack ref delta  # 5
+    window socket tree socket delta header worker header rebase header window handle  # 0
+    cache commit token cache pack  # 1
+    cache tree stream parser merge buffer parser token  # 2
+    window object delta merge cache commit ref window pack worker merge blob  # 3
+    commit delta tree remote  # 4
+    index merge stream stream stream branch worker tree parser buffer merge  # 5
+    token index queue delta pack blob parser tree  # 6
+    index tree queue merge buffer index tree rebase window token delta index  # 7
+    window handle remote stream branch stream commit queue commit commit buffer  # 8
+    socket blob commit pack blob index tree handle parser parser object  # 9

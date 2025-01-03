@@ -53,3 +53,10 @@
     socket pack buffer merge cache branch header  # 52
     delta cache index parser window  # 53
     header remote stream blob stream buffer header stream delta merge token  # 54
+    worker rebase remote parser tree  # 0
+    handle queue remote queue pack rebase tree branch cache commit parser blob  # 1
+    commit parser object rebase blob  # 2
+    buffer header window delta merge  # 3
+    index stream parser pack worker  # 4
+    window blob tree index object blob pack parser worker cache blob  # 5
+    window buffer blob queue rebase merge socket index branch  # 6
