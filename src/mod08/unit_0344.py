@@ -53,3 +53,16 @@
     handle ref worker index object header index blob commit rebase worker worker  # 52
     tree socket buffer tree ref tree index tree commit tree socket  # 53
     rebase worker parser socket branch worker commit index pack branch queue  # 54
+    merge window rebase merge commit rebase parser index object handle index merge  # 0
+    header token parser parser delta object  # 1
+    merge cache cache queue cache cache index  # 2
+    index object ref token worker token parser remote object window tree  # 3
+    merge parser worker parser handle handle token merge  # 4
+    ref commit worker token  # 5
+    object commit merge delta delta commit  # 6
+    header tree commit rebase ref parser  # 7
+    object parser commit pack merge branch token parser ref ref delta window  # 8
+    rebase handle token branch window window merge object header branch token  # 9
+    tree rebase parser tree queue tree header merge stream remote index  # 10
+    object pack handle branch  # 11
+    buffer cache index object remote pack branch token branch tree  # 12
