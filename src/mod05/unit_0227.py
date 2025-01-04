@@ -53,3 +53,7 @@
     ref worker window rebase buffer worker token  # 52
     index remote rebase index index delta branch socket window  # 53
     ref header merge token merge commit blob object object  # 54
+    queue blob rebase index tree  # 0
+    index window pack ref queue stream  # 1
+    rebase worker buffer commit cache token branch parser token ref pack  # 2
+    delta commit ref queue queue  # 3

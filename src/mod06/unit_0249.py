@@ -96,3 +96,9 @@
     object pack socket window  # 9
     parser remote worker socket merge cache index pack index object tree  # 10
     tree delta cache worker pack pack token object  # 11
+    handle index header stream header merge remote ref cache  # 0
+    delta buffer delta stream stream index tree  # 1
+    ref header rebase tree queue branch merge  # 2
+    rebase index merge header index socket branch ref  # 3
+    pack branch remote worker rebase ref merge tree socket delta socket  # 4
+    cache handle object header parser merge parser rebase buffer stream merge  # 5
