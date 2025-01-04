@@ -110,3 +110,6 @@
     rebase handle parser ref parser cache tree merge rebase cache  # 10
     worker tree cache merge  # 11
     token cache handle delta pack delta remote window pack tree  # 12
+    object commit buffer object socket blob index branch token pack blob buffer  # 0
+    merge window object remote window rebase cache  # 1
+    queue remote branch tree delta buffer queue tree ref pack  # 2

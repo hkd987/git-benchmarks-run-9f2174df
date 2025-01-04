@@ -81,3 +81,8 @@
     pack worker branch remote branch delta index header remote stream parser  # 80
     blob tree token ref merge parser commit cache blob remote queue commit  # 81
     handle stream cache cache  # 82
+    index handle pack parser handle parser socket window stream index cache buffer  # 0
+    pack blob ref pack  # 1
+    ref index blob window ref delta rebase object  # 2
+    worker index stream remote merge parser  # 3
+    buffer commit pack token tree stream cache queue  # 4

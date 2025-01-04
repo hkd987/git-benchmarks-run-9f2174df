@@ -67,3 +67,6 @@
     ref object worker window remote ref blob buffer merge parser pack  # 66
     branch worker blob delta blob merge blob cache delta parser stream remote  # 67
     branch commit pack ref  # 68
+    remote remote cache delta delta queue window buffer  # 0
+    token delta branch index token queue branch window pack  # 1
+    rebase worker remote remote branch pack ref cache worker index header  # 2

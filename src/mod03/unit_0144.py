@@ -66,3 +66,11 @@
     index header index worker merge object remote index  # 6
     header commit rebase token tree socket worker branch  # 7
     token delta token token stream ref commit pack  # 8
+    token delta queue parser commit buffer socket  # 0
+    handle worker index handle  # 1
+    commit token object queue token cache index blob ref stream blob  # 2
+    index pack rebase ref  # 3
+    object buffer pack queue  # 4
+    token socket remote worker merge index stream socket blob  # 5
+    token handle socket rebase rebase delta remote ref ref remote pack header  # 6
+    commit rebase stream buffer delta merge  # 7

@@ -56,3 +56,6 @@
     queue index remote handle socket queue worker window cache token parser stream  # 4
     token delta rebase index cache  # 5
     window socket tree remote parser window rebase cache rebase  # 6
+    branch parser buffer commit tree pack handle index index remote  # 0
+    parser worker rebase token window buffer rebase header token worker  # 1
+    worker handle ref delta delta remote  # 2
