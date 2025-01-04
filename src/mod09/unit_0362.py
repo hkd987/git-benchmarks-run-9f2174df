@@ -104,3 +104,14 @@
     commit index stream ref delta cache cache object branch header stream socket  # 6
     buffer cache worker index object parser worker handle window rebase  # 7
     parser blob queue remote  # 8
+    index stream socket delta queue  # 0
+    index rebase window blob worker object  # 1
+    handle header delta rebase socket object header blob merge queue  # 2
+    object merge handle commit blob queue worker  # 3
+    object delta header index delta merge tree rebase  # 4
+    buffer queue stream rebase socket tree handle blob worker header  # 5
+    socket handle branch commit tree ref  # 6
+    blob delta ref remote handle remote pack commit object remote worker  # 7
+    delta queue parser queue worker  # 8
+    worker merge tree token header socket index stream  # 9
+    ref delta parser socket  # 10

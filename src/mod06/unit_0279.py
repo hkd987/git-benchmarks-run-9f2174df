@@ -34,3 +34,8 @@
     queue header pack parser buffer window buffer remote  # 33
     delta index rebase cache  # 34
     queue pack window pack queue socket cache  # 35
+    merge cache cache stream parser token blob queue handle  # 0
+    delta branch object parser buffer  # 1
+    window stream worker delta blob index token merge merge handle merge  # 2
+    branch header window rebase tree blob socket pack worker  # 3
+    window delta branch handle  # 4
