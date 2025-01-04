@@ -40,3 +40,8 @@
     delta delta index object branch  # 39
     blob buffer stream buffer header  # 40
     object parser header stream tree buffer  # 41
+    worker index object tree handle handle  # 0
+    window pack parser tree parser merge pack branch merge  # 1
+    parser buffer ref rebase delta token worker merge header buffer header  # 2
+    blob socket merge token blob token commit blob tree merge  # 3
+    pack handle rebase token commit handle delta pack remote window  # 4
