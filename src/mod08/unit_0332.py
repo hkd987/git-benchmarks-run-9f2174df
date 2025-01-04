@@ -81,3 +81,6 @@
     merge token object handle branch socket buffer  # 8
     index blob header object socket worker  # 9
     delta queue remote index commit merge token token merge merge stream  # 10
+    token branch object merge socket delta branch blob handle blob ref token  # 0
+    commit remote tree socket pack rebase  # 1
+    window worker header tree  # 2

@@ -42,3 +42,7 @@
     header index worker cache queue commit worker worker merge merge pack queue  # 41
     cache buffer worker stream stream object pack cache  # 42
     blob remote merge queue  # 43
+    commit cache cache merge  # 0
+    ref tree buffer tree pack  # 1
+    token token delta header tree  # 2
+    stream object blob commit header header branch delta blob  # 3
