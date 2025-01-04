@@ -106,3 +106,11 @@
     commit branch branch queue token header  # 5
     handle worker rebase branch index delta header worker socket  # 6
     parser commit delta window cache ref index remote worker handle  # 7
+    index stream worker remote ref buffer parser delta queue  # 0
+    token stream index object queue object token queue pack buffer socket  # 1
+    commit merge token header tree remote token header stream cache  # 2
+    buffer index branch index buffer rebase merge socket remote  # 3
+    remote ref rebase commit index delta remote tree commit branch  # 4
+    index token socket worker ref object blob merge blob socket parser  # 5
+    token window socket pack  # 6
+    cache rebase merge remote merge handle parser stream header  # 7

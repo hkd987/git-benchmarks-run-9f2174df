@@ -50,3 +50,9 @@
     parser token delta index blob handle remote tree blob parser  # 49
     worker branch parser handle header object handle ref socket  # 50
     commit worker branch tree commit stream rebase branch token worker  # 51
+    parser token object ref parser tree blob  # 0
+    queue pack commit index object index handle pack  # 1
+    rebase object index blob rebase rebase header object branch handle rebase window  # 2
+    token handle queue queue  # 3
+    commit window socket header socket stream remote cache tree object index  # 4
+    cache branch ref window branch rebase commit index merge queue socket buffer  # 5

@@ -84,3 +84,12 @@
     token blob stream branch  # 83
     queue token stream window index queue parser token rebase  # 84
     stream stream window branch remote header rebase window ref commit  # 85
+    handle handle stream commit commit window tree socket commit header  # 0
+    window parser blob tree buffer ref index rebase commit token  # 1
+    cache blob window stream queue object delta stream rebase commit tree queue  # 2
+    delta object header object handle window index buffer handle branch  # 3
+    branch merge token socket token rebase parser  # 4
+    header rebase buffer worker ref commit commit rebase remote socket  # 5
+    window handle commit handle header header ref pack buffer handle  # 6
+    queue parser branch stream  # 7
+    cache handle commit stream blob tree pack handle queue parser  # 8
