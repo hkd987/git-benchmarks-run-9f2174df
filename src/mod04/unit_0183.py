@@ -80,3 +80,10 @@
     pack object stream tree header object window socket handle pack  # 79
     header ref index cache delta parser  # 80
     window merge cache object parser blob ref cache  # 81
+    buffer socket worker delta merge  # 0
+    header object remote socket pack  # 1
+    buffer branch commit delta index window rebase object handle remote token handle  # 2
+    rebase tree object merge tree  # 3
+    queue blob cache remote  # 4
+    buffer tree pack commit rebase queue object tree worker blob queue commit  # 5
+    blob remote stream blob rebase buffer queue queue remote  # 6

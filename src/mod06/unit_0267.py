@@ -114,3 +114,6 @@
     parser ref index handle token object window ref parser rebase  # 12
     socket queue remote cache handle branch merge index buffer parser parser delta  # 13
     header worker ref token delta parser  # 14
+    worker commit queue stream merge header blob  # 0
+    stream rebase queue cache worker blob merge pack socket  # 1
+    branch delta remote window tree stream merge branch rebase queue queue socket  # 2
