@@ -50,3 +50,12 @@
     socket merge ref tree pack tree stream worker merge merge cache  # 7
     remote worker socket merge object token commit stream remote socket queue  # 8
     object cache blob blob queue rebase window merge ref blob  # 9
+    pack window remote handle index  # 0
+    commit blob ref window pack pack window remote pack socket worker buffer  # 1
+    queue handle cache remote pack worker token buffer stream  # 2
+    delta window merge token worker pack stream object  # 3
+    token queue remote cache remote stream branch header worker ref rebase  # 4
+    remote index blob ref queue index pack  # 5
+    rebase object branch stream window  # 6
+    merge remote commit socket queue commit  # 7
+    object blob token header socket  # 8

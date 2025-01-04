@@ -79,3 +79,9 @@
     cache pack merge header cache stream token window stream branch  # 7
     socket stream blob tree worker object cache stream rebase header  # 8
     cache window merge tree handle token rebase index window worker  # 9
+    merge branch blob token rebase window blob cache branch cache parser  # 0
+    merge rebase ref object  # 1
+    branch token worker blob socket stream remote tree  # 2
+    buffer socket object pack parser  # 3
+    queue pack socket rebase stream blob remote object object stream  # 4
+    window socket handle window queue  # 5
