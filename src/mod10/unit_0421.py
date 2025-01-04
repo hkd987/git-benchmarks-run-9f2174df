@@ -96,3 +96,9 @@
     window parser blob window header  # 9
     buffer stream window merge buffer delta window token blob delta  # 10
     index cache header object merge buffer pack token handle cache  # 11
+    socket ref delta index remote remote stream stream pack merge  # 0
+    ref remote worker buffer branch worker tree  # 1
+    merge tree commit buffer token stream merge blob blob  # 2
+    queue pack commit window parser cache window branch tree queue merge header  # 3
+    pack branch parser object merge stream blob stream ref object  # 4
+    token header cache object delta merge merge token ref  # 5

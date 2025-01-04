@@ -79,3 +79,6 @@
     merge token ref buffer cache  # 78
     pack blob index cache token token branch stream worker cache window  # 79
     tree blob buffer pack pack cache socket ref worker handle index  # 80
+    index socket header header token branch  # 0
+    tree window commit index worker token pack  # 1
+    branch handle queue merge cache tree stream rebase window tree tree  # 2

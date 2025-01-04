@@ -58,3 +58,8 @@
     ref tree window token blob parser  # 57
     handle socket ref merge queue socket window ref rebase  # 58
     parser pack tree ref  # 59
+    delta stream cache object remote blob stream worker  # 0
+    parser object token queue stream rebase socket object  # 1
+    stream index buffer ref delta object  # 2
+    branch object header socket  # 3
+    window socket queue buffer blob commit header  # 4

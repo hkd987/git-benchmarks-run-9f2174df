@@ -78,3 +78,12 @@
     branch branch handle parser blob  # 77
     delta stream token buffer ref header index blob  # 78
     commit merge header stream  # 79
+    worker cache delta stream handle buffer  # 0
+    token stream index header  # 1
+    header rebase ref parser ref queue branch window  # 2
+    socket pack index commit header parser header merge worker pack header  # 3
+    commit pack merge cache buffer  # 4
+    stream window stream worker cache worker header  # 5
+    ref parser delta commit ref pack  # 6
+    delta commit window merge delta merge parser delta ref worker commit window  # 7
+    header index blob parser  # 8

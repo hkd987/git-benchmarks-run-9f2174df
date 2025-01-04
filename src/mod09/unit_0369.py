@@ -101,3 +101,17 @@
     remote pack parser window commit window commit ref header  # 11
     branch merge parser cache  # 12
     stream remote object rebase delta stream handle  # 13
+    token index socket header  # 0
+    tree window window token window  # 1
+    header worker window handle delta handle window branch handle  # 2
+    branch handle object branch ref pack remote commit ref header  # 3
+    worker tree socket worker tree  # 4
+    ref branch merge ref pack header token  # 5
+    window delta delta stream index blob tree  # 6
+    handle socket index branch commit branch  # 7
+    parser cache tree stream index  # 8
+    ref index window index parser tree  # 9
+    stream window rebase branch commit header socket delta buffer object  # 10
+    queue merge queue tree tree queue queue token window remote commit  # 11
+    branch window buffer header cache header object header blob branch  # 12
+    delta remote queue socket parser pack blob parser  # 13

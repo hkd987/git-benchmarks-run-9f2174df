@@ -53,3 +53,6 @@
     delta object socket ref index socket tree worker queue merge  # 11
     cache commit blob parser header object stream  # 12
     rebase branch worker branch token  # 13
+    window index merge index index token handle window commit  # 0
+    stream delta object token  # 1
+    handle buffer remote cache pack  # 2
