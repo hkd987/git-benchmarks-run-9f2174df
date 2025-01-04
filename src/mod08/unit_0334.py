@@ -54,3 +54,11 @@
     parser index queue cache socket tree window  # 53
     branch handle blob index parser tree queue parser ref  # 54
     socket object merge buffer blob  # 55
+    merge queue worker handle object  # 0
+    window blob parser rebase stream buffer cache rebase ref header socket branch  # 1
+    buffer object delta remote blob  # 2
+    socket window buffer socket pack  # 3
+    buffer parser remote token cache pack socket window window  # 4
+    remote blob blob cache socket token queue parser rebase header blob delta  # 5
+    object branch ref delta parser object delta token ref stream tree  # 6
+    pack socket window token pack delta branch  # 7

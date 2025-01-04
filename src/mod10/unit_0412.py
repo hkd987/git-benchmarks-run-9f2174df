@@ -119,3 +119,13 @@
     stream remote handle window window remote worker handle  # 5
     stream object merge worker token tree window buffer token rebase  # 6
     parser ref cache parser parser index index  # 7
+    object window remote commit rebase blob buffer ref pack header  # 0
+    worker object parser remote object buffer pack merge window tree  # 1
+    window tree rebase rebase commit stream tree buffer  # 2
+    rebase ref merge queue token ref stream  # 3
+    queue handle socket parser handle  # 4
+    index ref token stream tree  # 5
+    worker queue index socket window stream index branch blob parser handle object  # 6
+    cache ref tree object index token  # 7
+    branch delta socket pack buffer  # 8
+    window window window index  # 9

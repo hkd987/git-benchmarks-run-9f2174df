@@ -41,3 +41,6 @@
     buffer header commit pack blob ref tree socket blob index merge worker  # 40
     merge handle merge branch merge stream socket branch buffer window  # 41
     worker blob socket parser handle  # 42
+    cache buffer pack handle parser parser buffer  # 0
+    ref cache socket blob tree worker socket pack worker pack  # 1
+    branch token blob commit token header object header stream ref buffer  # 2
