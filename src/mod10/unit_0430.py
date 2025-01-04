@@ -97,3 +97,7 @@
     queue commit commit branch  # 0
     rebase parser socket pack blob blob branch ref remote window header  # 1
     object queue blob buffer rebase token buffer  # 2
+    token branch buffer branch cache delta socket  # 0
+    ref window merge queue worker pack window remote branch merge  # 1
+    queue merge header object handle blob  # 2
+    header tree index socket  # 3
