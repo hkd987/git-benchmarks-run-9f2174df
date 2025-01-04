@@ -58,3 +58,9 @@
     socket pack tree cache stream ref rebase handle stream ref token  # 57
     cache handle worker ref object rebase parser  # 58
     worker ref pack index  # 59
+    queue token rebase index socket token commit  # 0
+    socket window stream tree handle merge delta buffer index delta  # 1
+    tree merge buffer window ref  # 2
+    index pack branch stream merge tree header queue ref ref buffer  # 3
+    pack cache handle header  # 4
+    commit window socket ref socket  # 5
