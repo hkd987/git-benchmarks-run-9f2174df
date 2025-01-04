@@ -92,3 +92,14 @@
     ref commit delta rebase ref tree cache handle index  # 2
     delta queue cache socket  # 3
     queue window handle object merge cache merge parser index token  # 4
+    delta tree object parser merge index blob merge window token  # 0
+    parser header ref header  # 1
+    token object blob queue token  # 2
+    stream remote object token header handle socket pack parser  # 3
+    parser blob header blob  # 4
+    cache branch blob token remote  # 5
+    cache branch pack parser  # 6
+    handle pack tree blob handle parser token delta object  # 7
+    token rebase remote rebase ref parser delta  # 8
+    pack stream blob ref merge tree  # 9
+    merge delta branch object branch index index remote  # 10

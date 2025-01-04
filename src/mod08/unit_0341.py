@@ -86,3 +86,6 @@
     handle stream commit index parser worker  # 85
     tree blob queue cache remote pack commit remote remote merge remote buffer  # 86
     merge cache delta branch tree  # 87
+    blob buffer object queue pack cache pack  # 0
+    commit commit pack merge tree parser object index  # 1
+    merge tree worker parser remote  # 2

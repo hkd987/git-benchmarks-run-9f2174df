@@ -80,3 +80,13 @@
     header remote index window pack socket index blob tree cache  # 79
     header tree delta cache delta stream token pack token stream  # 80
     object handle object queue commit tree stream index ref commit  # 81
+    socket stream blob socket ref header commit socket buffer cache  # 0
+    ref tree pack ref index window  # 1
+    buffer token rebase blob buffer buffer index pack  # 2
+    handle blob handle index remote header index cache queue  # 3
+    rebase blob pack worker  # 4
+    window worker merge cache queue  # 5
+    remote cache handle blob ref branch socket pack object rebase branch  # 6
+    window delta stream queue  # 7
+    remote index merge socket tree blob object handle rebase  # 8
+    stream commit branch pack  # 9

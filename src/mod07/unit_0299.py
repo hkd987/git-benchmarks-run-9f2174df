@@ -100,3 +100,8 @@
     blob remote blob queue token ref rebase cache merge  # 12
     worker delta header buffer cache tree buffer tree tree token  # 13
     cache blob index pack merge pack cache  # 14
+    pack rebase queue window worker pack remote pack header  # 0
+    stream ref handle pack parser  # 1
+    tree window window branch commit cache blob stream stream delta blob queue  # 2
+    commit delta index blob blob delta index ref worker  # 3
+    handle token tree object commit parser ref token index queue  # 4
