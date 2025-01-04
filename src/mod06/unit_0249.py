@@ -84,3 +84,15 @@
     remote buffer queue commit queue buffer window  # 5
     tree tree rebase header index worker object socket  # 6
     worker queue stream handle token blob parser  # 7
+    rebase pack handle queue parser ref object commit commit worker queue merge  # 0
+    tree window commit remote  # 1
+    branch rebase pack pack object cache index blob stream index token  # 2
+    index cache delta merge rebase branch stream  # 3
+    cache remote pack commit branch header header handle  # 4
+    pack worker cache pack branch blob merge  # 5
+    socket socket parser object index ref ref  # 6
+    commit branch commit merge stream  # 7
+    rebase ref rebase pack merge delta merge pack tree tree index blob  # 8
+    object pack socket window  # 9
+    parser remote worker socket merge cache index pack index object tree  # 10
+    tree delta cache worker pack pack token object  # 11
