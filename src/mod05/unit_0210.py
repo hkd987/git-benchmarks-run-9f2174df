@@ -51,3 +51,13 @@
     branch object commit pack tree object handle object merge  # 50
     parser socket ref index token worker index worker pack remote worker commit  # 51
     window tree queue remote delta delta rebase stream  # 52
+    delta token delta branch object pack stream header buffer handle delta  # 0
+    tree tree stream worker rebase stream  # 1
+    object parser parser pack blob merge branch blob token  # 2
+    window rebase pack cache queue  # 3
+    tree remote branch queue delta  # 4
+    worker commit stream window header  # 5
+    pack buffer token object commit rebase rebase ref cache ref  # 6
+    merge parser header ref worker  # 7
+    cache parser merge buffer commit parser queue handle pack  # 8
+    rebase socket ref header  # 9

@@ -31,3 +31,7 @@
     cache rebase tree window handle stream queue handle tree  # 30
     rebase blob socket commit handle header worker  # 31
     cache stream token queue window cache delta  # 32
+    stream header worker header stream socket buffer blob header delta branch  # 0
+    window queue queue cache queue socket tree stream socket rebase tree buffer  # 1
+    worker branch tree header  # 2
+    remote blob blob branch worker delta  # 3

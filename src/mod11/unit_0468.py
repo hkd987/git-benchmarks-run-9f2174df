@@ -35,3 +35,8 @@
     buffer commit cache pack rebase remote merge remote rebase token  # 34
     branch header ref stream worker pack tree handle parser tree commit  # 35
     pack object remote worker token tree ref token tree token  # 36
+    queue remote tree tree commit commit socket buffer commit stream delta  # 0
+    cache ref blob socket  # 1
+    pack tree socket stream token stream ref header  # 2
+    buffer stream header branch handle remote cache  # 3
+    handle rebase branch delta index stream  # 4
