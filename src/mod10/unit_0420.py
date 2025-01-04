@@ -40,3 +40,10 @@
     branch stream tree stream worker worker parser  # 7
     stream commit cache commit branch buffer object rebase  # 8
     ref commit parser remote stream object merge parser window  # 9
+    blob queue object socket ref stream parser  # 0
+    object delta buffer blob parser tree object rebase ref  # 1
+    window tree stream stream index branch token  # 2
+    ref stream header stream delta cache  # 3
+    ref socket tree merge token object commit  # 4
+    buffer tree tree object window handle handle ref handle ref commit stream  # 5
+    rebase pack queue queue rebase stream window  # 6
