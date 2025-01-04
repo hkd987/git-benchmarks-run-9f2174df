@@ -63,3 +63,7 @@
     worker queue buffer socket ref cache parser  # 3
     handle token tree buffer pack  # 4
     delta stream worker ref handle  # 5
+    handle rebase parser ref merge header queue  # 0
+    remote queue blob ref  # 1
+    cache worker remote worker index object  # 2
+    window blob window token blob delta tree cache  # 3
