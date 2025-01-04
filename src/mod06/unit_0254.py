@@ -80,3 +80,10 @@
     cache commit worker ref token  # 79
     token token blob socket worker cache ref window  # 80
     worker cache merge pack buffer ref worker branch parser buffer handle window  # 81
+    blob ref remote socket commit handle header window  # 0
+    object parser remote socket ref remote handle cache object buffer  # 1
+    object rebase header cache index parser commit branch blob delta window cache  # 2
+    buffer commit branch queue blob handle delta  # 3
+    delta buffer branch parser  # 4
+    rebase queue index ref  # 5
+    worker rebase commit blob ref stream window buffer pack  # 6

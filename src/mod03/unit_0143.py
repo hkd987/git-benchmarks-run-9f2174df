@@ -95,3 +95,6 @@
     buffer parser window handle  # 8
     object object token merge header remote buffer window ref index stream parser  # 9
     merge cache rebase merge handle buffer window handle  # 10
+    queue pack blob handle header  # 0
+    parser index token branch queue parser worker parser commit ref  # 1
+    queue merge pack token pack buffer buffer queue buffer object  # 2
