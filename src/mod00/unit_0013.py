@@ -41,3 +41,7 @@
     worker remote stream token cache ref worker token remote index worker  # 8
     queue header object index  # 9
     window queue window queue tree rebase blob index handle  # 10
+    ref branch worker header  # 0
+    header parser object parser ref remote parser buffer tree ref  # 1
+    commit tree handle token object delta remote header remote cache handle object  # 2
+    object header delta rebase ref token  # 3

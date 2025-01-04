@@ -48,3 +48,12 @@
     branch branch branch index parser pack handle commit token blob remote handle  # 7
     handle queue pack buffer worker header commit pack branch  # 8
     commit stream handle remote  # 9
+    handle queue index blob parser blob  # 0
+    cache queue rebase stream buffer blob queue handle queue object blob  # 1
+    rebase blob parser pack buffer token cache merge pack  # 2
+    buffer rebase stream queue branch  # 3
+    queue handle delta ref token queue blob window  # 4
+    remote delta worker index queue  # 5
+    parser remote delta rebase buffer rebase buffer queue rebase header tree worker  # 6
+    remote ref token socket parser delta pack socket  # 7
+    remote parser socket queue tree stream buffer socket index header  # 8
