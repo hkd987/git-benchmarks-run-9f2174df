@@ -47,3 +47,15 @@
     cache blob blob handle branch merge merge tree buffer merge merge header  # 9
     tree stream socket remote queue tree branch object  # 10
     merge stream header cache  # 11
+    cache merge queue stream rebase commit object worker  # 0
+    index handle buffer rebase blob remote cache  # 1
+    pack delta branch delta ref  # 2
+    worker stream stream stream tree merge buffer handle cache  # 3
+    merge commit commit buffer rebase  # 4
+    cache blob remote rebase worker header worker window  # 5
+    window blob socket cache socket  # 6
+    pack stream ref handle cache delta remote tree socket rebase worker  # 7
+    remote index socket window rebase  # 8
+    handle handle worker header commit blob cache ref remote rebase  # 9
+    rebase delta pack tree branch  # 10
+    buffer remote socket stream blob  # 11

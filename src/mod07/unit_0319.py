@@ -84,3 +84,8 @@
     token tree branch branch branch worker queue header  # 83
     ref token delta queue window branch queue stream  # 84
     ref remote ref commit blob parser  # 85
+    tree worker token cache socket pack handle window merge token  # 0
+    buffer cache token header blob pack object object worker  # 1
+    rebase merge token rebase stream branch rebase token  # 2
+    stream header cache cache cache tree  # 3
+    pack buffer rebase header index commit rebase tree pack ref  # 4
