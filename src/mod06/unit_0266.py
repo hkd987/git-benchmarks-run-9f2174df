@@ -65,3 +65,8 @@
     window rebase parser ref header ref delta merge commit token branch worker  # 11
     delta branch handle queue merge window ref socket rebase  # 12
     delta merge branch object socket worker window  # 13
+    merge queue queue parser token window ref queue token  # 0
+    blob queue window window ref index parser pack merge blob ref queue  # 1
+    pack commit handle socket  # 2
+    header window pack queue worker tree worker tree  # 3
+    cache branch blob socket rebase merge socket socket  # 4
