@@ -52,3 +52,13 @@
     cache window pack socket delta window window commit buffer branch cache header  # 1
     rebase worker commit delta  # 2
     queue tree blob socket token  # 3
+    ref handle remote stream commit worker  # 0
+    cache token delta rebase queue object  # 1
+    handle tree blob commit socket  # 2
+    merge handle commit cache  # 3
+    parser stream cache ref token parser remote delta delta parser remote ref  # 4
+    stream blob delta rebase index cache commit handle delta cache tree ref  # 5
+    ref pack token ref blob ref delta tree delta token stream window  # 6
+    stream merge socket remote stream index delta token  # 7
+    socket queue object delta stream handle  # 8
+    branch delta tree blob worker  # 9

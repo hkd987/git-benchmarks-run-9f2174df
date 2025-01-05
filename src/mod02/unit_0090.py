@@ -72,3 +72,7 @@
     cache delta object rebase commit cache socket stream parser delta  # 71
     blob pack socket parser parser blob token pack commit handle parser window  # 72
     remote index ref stream stream cache parser stream index header handle  # 73
+    header branch ref parser blob window ref tree  # 0
+    worker header object socket object queue rebase handle buffer merge socket tree  # 1
+    remote queue tree worker delta buffer parser merge rebase tree  # 2
+    pack remote tree socket  # 3

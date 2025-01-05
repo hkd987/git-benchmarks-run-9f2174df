@@ -82,3 +82,8 @@
     handle socket remote blob socket handle remote socket rebase stream  # 5
     tree queue rebase tree parser parser index branch  # 6
     token delta commit rebase rebase object remote delta  # 7
+    delta window stream remote worker  # 0
+    socket delta stream cache tree rebase header header index index delta  # 1
+    commit pack remote rebase merge blob merge merge tree remote index merge  # 2
+    branch remote delta delta commit socket stream tree header parser cache  # 3
+    worker delta header object  # 4
