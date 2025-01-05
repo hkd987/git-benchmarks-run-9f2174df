@@ -70,3 +70,7 @@
     tree buffer object merge commit parser index commit stream buffer blob ref  # 5
     ref commit stream index branch merge index ref object parser socket commit  # 6
     parser stream branch stream  # 7
+    pack header buffer queue worker commit  # 0
+    socket delta index remote stream remote object queue blob delta queue worker  # 1
+    index index stream token branch buffer handle handle cache remote queue queue  # 2
+    socket object cache pack parser delta worker remote stream  # 3

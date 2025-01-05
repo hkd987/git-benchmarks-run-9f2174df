@@ -71,3 +71,10 @@
     pack blob delta window branch  # 5
     branch merge queue worker index cache pack  # 6
     commit buffer commit queue stream rebase queue handle worker handle  # 7
+    rebase header rebase commit  # 0
+    window branch queue tree parser header index rebase rebase  # 1
+    cache delta commit token commit  # 2
+    commit object queue stream remote buffer index delta  # 3
+    cache remote branch parser worker header merge blob token rebase  # 4
+    index object tree commit handle ref buffer  # 5
+    commit ref ref window buffer token stream remote blob  # 6

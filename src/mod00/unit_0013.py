@@ -45,3 +45,10 @@
     header parser object parser ref remote parser buffer tree ref  # 1
     commit tree handle token object delta remote header remote cache handle object  # 2
     object header delta rebase ref token  # 3
+    parser commit tree cache index  # 0
+    token buffer parser socket delta blob blob window  # 1
+    stream pack blob branch commit object cache buffer tree worker window  # 2
+    branch socket window tree  # 3
+    remote delta rebase ref cache handle rebase  # 4
+    queue blob remote merge token socket branch pack object  # 5
+    object socket blob cache token window rebase queue socket delta index  # 6
