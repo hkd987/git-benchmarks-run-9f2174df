@@ -63,3 +63,8 @@
     stream index buffer ref delta object  # 2
     branch object header socket  # 3
     window socket queue buffer blob commit header  # 4
+    delta worker token ref buffer  # 0
+    stream object buffer stream tree  # 1
+    merge rebase commit commit cache queue parser socket object handle worker  # 2
+    parser index tree tree  # 3
+    object branch tree worker pack rebase header  # 4

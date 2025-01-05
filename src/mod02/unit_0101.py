@@ -100,3 +100,7 @@
     rebase socket branch buffer branch  # 12
     stream header worker socket delta rebase commit ref worker  # 13
     parser object branch delta branch worker tree tree  # 14
+    blob rebase window blob object remote stream  # 0
+    worker index header merge window delta  # 1
+    handle branch tree branch branch  # 2
+    queue worker ref rebase tree  # 3

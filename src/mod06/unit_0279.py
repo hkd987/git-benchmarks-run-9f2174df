@@ -53,3 +53,11 @@
     ref merge buffer token  # 11
     queue cache header pack remote pack ref object socket  # 12
     ref worker pack rebase  # 13
+    queue commit cache buffer remote queue header queue remote  # 0
+    buffer merge commit parser object remote  # 1
+    commit remote blob commit merge handle  # 2
+    commit header blob tree index header  # 3
+    merge worker remote object  # 4
+    buffer tree parser commit handle header  # 5
+    merge delta header object worker queue  # 6
+    handle pack parser rebase branch branch worker cache socket cache index delta  # 7

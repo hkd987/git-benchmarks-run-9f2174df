@@ -72,3 +72,6 @@
     rebase queue token worker handle window header buffer pack  # 71
     tree merge index pack merge commit  # 72
     ref worker queue remote blob  # 73
+    delta tree blob rebase ref window buffer  # 0
+    index branch queue buffer commit header queue socket handle object blob header  # 1
+    rebase stream buffer token delta buffer delta delta  # 2
