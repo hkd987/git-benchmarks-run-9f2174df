@@ -78,3 +78,10 @@
     header window token ref buffer stream blob header branch socket tree token  # 3
     header merge token ref tree stream  # 4
     tree header handle tree  # 5
+    buffer ref socket buffer remote remote token  # 0
+    cache token cache queue handle cache  # 1
+    parser object tree index header token worker token queue remote parser queue  # 2
+    token ref queue index buffer rebase index  # 3
+    tree index tree pack tree handle window  # 4
+    object pack header tree buffer blob worker branch  # 5
+    header commit commit rebase window  # 6
