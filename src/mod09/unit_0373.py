@@ -72,3 +72,18 @@
     socket header ref blob header  # 71
     remote tree delta handle  # 72
     pack parser buffer worker object  # 73
+    ref tree branch object header commit  # 0
+    queue tree parser pack socket stream worker  # 1
+    pack blob buffer parser stream blob branch stream index worker blob remote  # 2
+    blob remote buffer buffer  # 3
+    stream handle cache ref remote cache cache window worker buffer rebase  # 4
+    header header remote commit worker merge object stream parser delta window pack  # 5
+    object commit merge stream tree cache socket window  # 6
+    ref commit header merge header ref cache token buffer token index remote  # 7
+    commit cache token worker commit handle remote rebase queue  # 8
+    branch ref tree remote buffer queue object index buffer  # 9
+    merge parser commit object window blob parser index remote window window  # 10
+    remote cache delta worker handle socket header  # 11
+    ref header delta socket header  # 12
+    rebase cache remote parser merge stream index object  # 13
+    object queue handle delta  # 14

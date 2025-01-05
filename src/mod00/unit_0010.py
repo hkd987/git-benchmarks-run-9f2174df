@@ -60,3 +60,12 @@
     index branch token branch merge buffer merge  # 59
     header commit object cache cache cache token  # 60
     commit handle commit parser token  # 61
+    pack tree merge queue  # 0
+    remote header cache pack merge parser handle queue ref  # 1
+    buffer socket token remote cache pack handle branch  # 2
+    queue parser blob rebase stream queue cache stream ref stream  # 3
+    tree blob object remote branch token  # 4
+    worker window blob stream header ref socket  # 5
+    handle worker branch socket socket stream handle  # 6
+    worker blob blob socket  # 7
+    token rebase handle delta branch stream merge  # 8

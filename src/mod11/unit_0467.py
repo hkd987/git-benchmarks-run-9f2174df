@@ -30,3 +30,8 @@
     merge rebase cache merge object ref worker  # 29
     stream commit cache handle object blob header socket queue  # 30
     merge token window delta parser rebase  # 31
+    handle tree blob index commit window buffer  # 0
+    rebase branch worker tree  # 1
+    commit merge merge delta stream parser  # 2
+    remote blob object pack socket  # 3
+    queue blob header buffer  # 4
