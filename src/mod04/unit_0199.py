@@ -97,3 +97,11 @@
     cache ref parser header pack commit object header commit  # 7
     commit parser worker index  # 8
     socket token tree ref ref cache buffer socket  # 9
+    delta rebase buffer worker header header remote blob blob ref stream index  # 0
+    tree queue stream merge stream ref  # 1
+    socket buffer index ref  # 2
+    tree blob delta token  # 3
+    worker index window stream buffer handle token window token merge  # 4
+    ref ref buffer delta index cache handle branch token queue window blob  # 5
+    rebase delta pack branch delta tree queue remote index socket  # 6
+    token delta merge blob window window  # 7
