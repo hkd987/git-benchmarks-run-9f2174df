@@ -45,3 +45,6 @@
     token socket token object merge rebase  # 8
     queue handle socket queue cache blob ref  # 9
     delta cache pack ref  # 10
+    remote object remote delta commit branch commit delta stream delta buffer branch  # 0
+    branch cache window delta  # 1
+    queue rebase object token tree  # 2
