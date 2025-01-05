@@ -62,3 +62,10 @@
     commit tree handle cache  # 61
     cache token commit merge cache parser worker branch rebase  # 62
     token window tree pack token cache socket remote token handle  # 63
+    socket tree handle socket index buffer  # 0
+    stream tree stream commit  # 1
+    buffer cache pack header  # 2
+    cache remote index token  # 3
+    tree merge parser window tree branch ref window stream buffer queue handle  # 4
+    socket blob socket remote remote merge  # 5
+    header commit parser ref worker delta commit blob ref rebase  # 6

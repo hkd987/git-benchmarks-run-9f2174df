@@ -91,3 +91,7 @@
     index socket cache rebase queue socket handle socket buffer  # 4
     parser remote remote window cache queue window ref token  # 5
     merge queue handle branch delta parser  # 6
+    buffer socket index branch commit worker pack remote branch object token  # 0
+    buffer buffer blob cache queue parser socket window header cache remote  # 1
+    rebase window queue delta header merge  # 2
+    stream rebase cache socket parser delta handle pack worker  # 3

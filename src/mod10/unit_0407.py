@@ -104,3 +104,9 @@
     queue handle branch rebase worker object  # 8
     queue stream worker buffer index token  # 9
     branch commit tree delta rebase stream buffer token commit object  # 10
+    ref pack worker parser buffer index object rebase  # 0
+    socket header queue ref socket header merge delta  # 1
+    index merge queue handle ref index  # 2
+    buffer blob header merge token stream  # 3
+    parser merge object cache handle token ref pack merge tree  # 4
+    commit stream token worker blob  # 5
