@@ -84,3 +84,6 @@
     object remote queue delta worker buffer index delta header cache  # 3
     tree window buffer merge buffer token commit ref header branch remote worker  # 4
     merge ref merge pack  # 5
+    socket ref blob branch  # 0
+    blob remote queue parser  # 1
+    parser blob socket socket remote  # 2

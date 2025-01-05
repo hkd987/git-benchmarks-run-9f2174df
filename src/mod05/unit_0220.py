@@ -64,3 +64,6 @@
     rebase queue window ref tree handle window header window  # 2
     delta token commit cache token  # 3
     header stream stream delta pack handle socket handle delta handle  # 4
+    index handle branch branch index  # 0
+    parser header branch rebase parser pack commit token merge branch rebase  # 1
+    commit header stream commit rebase blob pack  # 2
