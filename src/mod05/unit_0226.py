@@ -74,3 +74,7 @@
     stream merge object commit tree branch ref token tree token worker  # 4
     buffer remote ref tree delta index header remote header  # 5
     delta parser token buffer  # 6
+    queue remote token worker ref token delta ref ref parser token  # 0
+    rebase socket commit rebase remote handle  # 1
+    cache delta pack index token parser merge object worker token commit header  # 2
+    remote pack parser queue socket token pack ref rebase worker rebase token  # 3

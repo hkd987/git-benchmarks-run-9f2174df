@@ -48,3 +48,6 @@
     token queue merge parser token merge window parser stream rebase  # 5
     cache index commit branch parser commit queue  # 6
     window socket socket stream queue header index token handle token ref commit  # 7
+    branch handle cache delta merge rebase ref worker buffer  # 0
+    rebase rebase branch cache branch  # 1
+    remote header header header merge branch commit buffer cache  # 2

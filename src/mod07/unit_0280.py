@@ -49,3 +49,7 @@
     cache delta ref blob tree header handle  # 6
     blob handle delta handle window delta object object  # 7
     object delta header tree buffer header token stream  # 8
+    worker token window merge object object  # 0
+    ref index blob handle queue window  # 1
+    parser rebase ref blob delta buffer delta  # 2
+    stream buffer merge cache rebase ref rebase worker buffer pack  # 3
