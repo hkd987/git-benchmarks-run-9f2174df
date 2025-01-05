@@ -58,3 +58,10 @@
     queue object handle blob  # 11
     tree socket tree blob socket worker worker delta branch index tree remote  # 12
     worker header index parser token object buffer commit cache branch window  # 13
+    object token delta buffer window handle socket blob worker  # 0
+    delta stream window window blob handle  # 1
+    merge rebase index stream token handle queue pack handle rebase  # 2
+    remote worker buffer stream queue  # 3
+    token parser window ref  # 4
+    pack stream object queue delta ref pack  # 5
+    index object parser token buffer worker queue  # 6

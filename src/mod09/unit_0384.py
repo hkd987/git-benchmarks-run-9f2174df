@@ -58,3 +58,12 @@
     branch branch remote rebase rebase pack stream queue delta  # 57
     tree remote ref ref  # 58
     branch window remote stream remote index socket token  # 59
+    socket queue tree token stream  # 0
+    worker tree header delta socket remote buffer object  # 1
+    queue stream header header buffer remote  # 2
+    buffer pack merge tree branch handle  # 3
+    object ref stream token merge ref worker header  # 4
+    delta index parser token index token delta worker cache  # 5
+    merge window buffer parser index window token delta buffer blob  # 6
+    delta buffer token rebase cache remote delta pack cache tree rebase  # 7
+    buffer ref handle ref token buffer queue index stream tree  # 8

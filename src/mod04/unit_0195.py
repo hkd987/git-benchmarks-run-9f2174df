@@ -58,3 +58,7 @@
     stream token remote parser blob window remote queue merge  # 0
     parser cache queue buffer branch blob  # 1
     socket window object stream merge tree cache object delta index queue  # 2
+    buffer tree branch index worker header header stream cache  # 0
+    stream ref merge buffer branch index remote window  # 1
+    rebase handle window delta tree handle token socket stream pack pack queue  # 2
+    window worker handle merge cache delta tree cache buffer header  # 3
