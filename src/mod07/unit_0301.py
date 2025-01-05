@@ -88,3 +88,10 @@
     worker socket window merge rebase buffer object  # 4
     worker queue merge index index merge queue remote  # 5
     pack blob index pack window cache  # 6
+    buffer tree cache buffer merge header ref delta merge  # 0
+    merge tree blob pack worker  # 1
+    queue remote index stream  # 2
+    branch merge delta pack handle handle  # 3
+    branch queue remote delta rebase remote window  # 4
+    parser handle pack branch parser blob delta  # 5
+    merge delta object delta blob  # 6

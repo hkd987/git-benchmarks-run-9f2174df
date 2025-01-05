@@ -76,3 +76,11 @@
     header parser branch branch token parser  # 75
     pack pack parser buffer socket delta buffer  # 76
     header window cache commit pack queue ref commit delta  # 77
+    handle handle delta token  # 0
+    merge handle handle ref window worker remote branch remote index parser  # 1
+    header tree object commit blob  # 2
+    handle token rebase tree commit parser tree object tree cache  # 3
+    object header stream index  # 4
+    blob rebase window tree index window rebase  # 5
+    window index commit pack queue parser cache ref header object parser header  # 6
+    object socket blob pack header header  # 7

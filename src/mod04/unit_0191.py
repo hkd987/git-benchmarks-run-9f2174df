@@ -80,3 +80,8 @@
     delta commit blob remote  # 10
     parser ref parser worker branch header  # 11
     cache buffer tree tree token pack handle  # 12
+    header ref window worker  # 0
+    worker token queue branch parser window buffer commit merge commit stream  # 1
+    remote socket worker cache  # 2
+    ref parser object tree  # 3
+    index remote remote commit queue queue commit handle parser cache index remote  # 4
