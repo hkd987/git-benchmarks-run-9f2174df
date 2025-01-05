@@ -45,3 +45,6 @@
     object handle parser window tree stream ref index handle  # 8
     pack commit parser ref handle  # 9
     ref commit blob socket stream remote cache queue rebase  # 10
+    tree merge worker worker  # 0
+    branch merge header buffer ref window pack queue handle handle buffer  # 1
+    delta blob handle index merge ref branch queue delta pack token  # 2

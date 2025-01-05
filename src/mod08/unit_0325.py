@@ -58,3 +58,7 @@
     buffer commit header merge parser object object window object pack  # 8
     parser buffer delta pack commit index delta  # 9
     blob delta handle rebase handle cache cache blob worker buffer  # 10
+    queue stream buffer merge commit queue blob blob index  # 0
+    header worker ref rebase ref tree worker  # 1
+    buffer cache header socket ref merge  # 2
+    stream queue handle branch queue commit cache stream merge buffer worker  # 3

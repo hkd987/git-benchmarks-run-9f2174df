@@ -80,3 +80,6 @@
     header handle tree pack merge window branch pack  # 3
     tree header branch tree rebase parser remote window remote branch  # 4
     index branch handle socket merge commit ref pack socket  # 5
+    stream cache tree worker pack header queue socket remote branch window cache  # 0
+    buffer buffer header delta delta index pack tree  # 1
+    queue pack parser blob handle queue cache token cache socket  # 2

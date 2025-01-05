@@ -35,3 +35,12 @@
     window queue queue cache queue socket tree stream socket rebase tree buffer  # 1
     worker branch tree header  # 2
     remote blob blob branch worker delta  # 3
+    header ref buffer stream index index  # 0
+    token remote pack delta tree merge remote object header pack  # 1
+    merge delta buffer object tree delta object worker stream delta delta  # 2
+    rebase cache parser stream index object parser object  # 3
+    handle window parser ref remote pack worker  # 4
+    token window stream blob handle branch token remote cache  # 5
+    buffer ref buffer index branch index header  # 6
+    window tree cache rebase branch tree blob queue branch pack blob queue  # 7
+    branch worker handle pack pack handle blob blob  # 8
