@@ -85,3 +85,6 @@
     commit stream rebase socket  # 84
     worker queue tree worker merge buffer  # 85
     parser pack handle token branch delta queue worker  # 86
+    header token remote remote tree rebase handle index blob  # 0
+    rebase pack handle token queue merge merge  # 1
+    object worker blob buffer remote token rebase remote buffer  # 2

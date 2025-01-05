@@ -66,3 +66,6 @@
     worker window stream handle stream  # 10
     header pack buffer token branch  # 11
     buffer merge queue parser stream  # 12
+    handle rebase handle blob  # 0
+    worker socket branch buffer parser branch delta object window  # 1
+    buffer ref stream cache token queue rebase cache cache cache  # 2

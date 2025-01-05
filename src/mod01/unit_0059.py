@@ -43,3 +43,7 @@
     pack commit cache cache merge cache window pack  # 1
     parser cache commit window buffer stream commit buffer socket  # 2
     cache merge parser tree worker delta merge  # 3
+    parser parser stream queue merge rebase commit ref ref socket  # 0
+    parser ref rebase object merge blob header worker remote index rebase  # 1
+    merge cache stream blob header tree delta parser  # 2
+    ref blob header token stream merge blob handle pack window object handle  # 3
