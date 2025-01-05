@@ -81,3 +81,7 @@
     cache blob parser buffer buffer buffer  # 2
     socket header index rebase tree tree delta parser  # 3
     remote tree blob queue handle worker tree  # 4
+    delta remote header window header  # 0
+    object header commit ref header socket  # 1
+    blob branch remote worker parser rebase rebase object token merge handle socket  # 2
+    rebase rebase window object object window window blob commit rebase  # 3
