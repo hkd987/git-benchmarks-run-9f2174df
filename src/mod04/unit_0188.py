@@ -39,3 +39,14 @@
     ref worker merge stream  # 38
     pack handle parser socket handle  # 39
     branch header merge handle token tree socket token remote rebase header  # 40
+    remote remote stream buffer socket rebase stream pack object cache  # 0
+    branch queue index branch queue merge tree token branch  # 1
+    header header tree branch socket merge index stream  # 2
+    rebase handle pack remote buffer buffer ref  # 3
+    worker index rebase rebase  # 4
+    branch rebase merge queue cache window queue worker  # 5
+    pack merge tree handle ref rebase window merge  # 6
+    branch rebase blob cache worker  # 7
+    window buffer socket cache  # 8
+    window token pack token rebase index rebase branch  # 9
+    header token window branch tree branch  # 10

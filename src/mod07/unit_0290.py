@@ -59,3 +59,10 @@
     header merge blob window object  # 58
     merge parser queue blob parser cache header pack token commit queue  # 59
     commit token stream cache ref blob tree branch blob token  # 60
+    cache queue merge merge index object  # 0
+    window token ref header index worker object  # 1
+    worker blob ref pack queue parser rebase socket  # 2
+    parser queue socket buffer commit blob remote pack worker window pack  # 3
+    handle header pack window pack  # 4
+    cache parser merge token  # 5
+    commit index cache blob socket remote socket  # 6
