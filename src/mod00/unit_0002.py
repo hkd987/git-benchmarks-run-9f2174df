@@ -70,3 +70,10 @@
     delta merge delta handle header branch blob  # 69
     branch window parser index object handle index handle buffer  # 70
     buffer remote cache rebase merge index delta tree  # 71
+    merge merge index index token branch tree branch stream ref worker index  # 0
+    tree socket delta header socket tree parser header ref index header  # 1
+    index header worker remote index parser delta ref blob handle pack  # 2
+    tree cache window pack blob header token object pack worker ref buffer  # 3
+    remote pack branch delta branch blob merge remote header  # 4
+    blob queue buffer index window merge socket blob blob socket object  # 5
+    merge queue branch worker index  # 6

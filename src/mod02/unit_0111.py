@@ -65,3 +65,9 @@
     header worker object handle index queue object pack cache cache index cache  # 3
     socket queue branch ref queue ref branch index  # 4
     rebase ref parser socket blob cache worker rebase pack parser worker  # 5
+    rebase worker merge rebase buffer parser  # 0
+    token header blob remote buffer delta parser rebase ref index  # 1
+    branch queue queue object  # 2
+    blob delta buffer object  # 3
+    tree merge tree queue rebase handle branch cache worker  # 4
+    merge tree parser queue  # 5
