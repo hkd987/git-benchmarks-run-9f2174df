@@ -87,3 +87,6 @@
     blob token token merge header queue stream worker token parser handle  # 86
     cache branch tree buffer  # 87
     queue blob socket delta  # 88
+    object cache merge commit  # 0
+    delta blob handle commit merge queue buffer index header commit cache  # 1
+    ref cache buffer tree index token worker branch  # 2

@@ -53,3 +53,9 @@
     pack delta pack parser object remote delta queue header  # 52
     cache branch delta pack handle token header  # 53
     delta queue pack parser blob buffer window blob branch  # 54
+    handle delta commit cache window stream rebase handle remote worker delta  # 0
+    blob remote socket tree worker header delta pack worker  # 1
+    worker remote stream parser commit tree worker handle tree index  # 2
+    object cache stream buffer  # 3
+    queue branch worker handle rebase commit handle worker branch cache header  # 4
+    delta merge worker rebase parser cache object window header  # 5

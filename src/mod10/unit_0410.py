@@ -76,3 +76,12 @@
     stream index stream blob header buffer ref  # 75
     index queue delta tree stream cache cache header  # 76
     token blob parser pack merge rebase blob tree  # 77
+    pack pack pack socket  # 0
+    parser cache stream pack buffer queue rebase remote pack merge window window  # 1
+    ref stream header header blob remote queue pack queue index  # 2
+    stream buffer pack delta index remote object merge buffer merge stream  # 3
+    remote rebase blob handle header  # 4
+    token ref remote blob handle window parser header  # 5
+    buffer merge ref delta pack branch parser header  # 6
+    queue queue worker stream  # 7
+    token worker token parser queue ref rebase object parser delta buffer  # 8

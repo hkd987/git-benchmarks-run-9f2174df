@@ -58,3 +58,9 @@
     commit queue object pack header cache  # 57
     buffer object buffer stream merge blob ref merge worker queue object commit  # 58
     blob queue ref worker  # 59
+    cache cache cache object pack remote queue blob  # 0
+    socket parser stream header merge  # 1
+    window worker ref handle handle pack worker token header header queue worker  # 2
+    index tree header window branch handle  # 3
+    parser blob queue token delta token  # 4
+    pack handle commit handle  # 5

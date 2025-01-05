@@ -75,3 +75,11 @@
     handle window branch token rebase handle window buffer buffer cache  # 74
     worker ref socket window socket cache branch  # 75
     index blob merge tree commit  # 76
+    ref worker token handle commit index buffer ref  # 0
+    worker rebase header worker branch worker worker commit buffer rebase handle  # 1
+    header ref remote object cache merge delta merge parser merge  # 2
+    blob cache token branch delta  # 3
+    worker cache branch pack object commit stream header worker  # 4
+    cache object delta merge branch merge  # 5
+    tree socket blob worker branch  # 6
+    object queue branch queue merge commit commit worker  # 7
