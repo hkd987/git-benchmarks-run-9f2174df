@@ -71,3 +71,10 @@
     handle cache header window pack  # 4
     remote index socket worker parser rebase window  # 5
     queue token cache merge branch tree  # 6
+    token ref cache socket blob commit pack header window  # 0
+    stream stream socket remote merge parser rebase header  # 1
+    queue merge socket pack blob socket branch handle queue branch  # 2
+    cache blob token header blob ref pack queue object delta pack token  # 3
+    parser token window commit stream queue parser stream token parser tree  # 4
+    object blob remote branch queue parser branch delta header  # 5
+    rebase object handle cache branch merge stream merge object handle  # 6

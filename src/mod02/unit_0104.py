@@ -88,3 +88,7 @@
     object pack blob socket  # 87
     buffer delta buffer header queue queue remote branch  # 88
     merge branch pack merge worker window queue tree  # 89
+    handle header ref parser commit parser handle cache header  # 0
+    header branch cache tree remote branch buffer tree  # 1
+    ref index rebase handle token header  # 2
+    merge rebase token parser header remote branch  # 3

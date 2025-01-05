@@ -69,3 +69,8 @@
     handle worker branch socket socket stream handle  # 6
     worker blob blob socket  # 7
     token rebase handle delta branch stream merge  # 8
+    parser pack ref pack  # 0
+    blob token commit commit commit token remote stream socket tree tree handle  # 1
+    delta token queue stream cache ref cache  # 2
+    worker handle worker commit header socket  # 3
+    delta worker worker commit  # 4
