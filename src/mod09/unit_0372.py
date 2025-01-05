@@ -72,3 +72,6 @@
     window rebase tree blob branch delta buffer delta delta tree remote  # 7
     delta remote delta token token window cache handle  # 8
     tree stream token buffer remote queue window window index rebase  # 9
+    parser index window merge delta ref  # 0
+    buffer socket remote stream buffer delta stream merge pack branch  # 1
+    handle stream commit object commit queue  # 2

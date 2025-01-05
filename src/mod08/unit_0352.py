@@ -68,3 +68,13 @@
     token tree rebase header blob branch  # 0
     commit stream window ref  # 1
     rebase parser object socket  # 2
+    index token handle rebase socket index commit cache handle header token  # 0
+    blob delta merge queue  # 1
+    token commit merge parser window branch rebase cache stream delta window  # 2
+    blob header remote rebase object cache queue  # 3
+    index socket worker stream index  # 4
+    index delta worker ref remote commit blob rebase commit header blob  # 5
+    handle handle object blob buffer remote blob branch remote worker socket worker  # 6
+    stream index handle header worker ref handle worker parser queue  # 7
+    commit worker remote delta stream tree handle blob buffer worker handle handle  # 8
+    remote header delta header stream merge header window pack  # 9

@@ -66,3 +66,10 @@
     branch index blob queue tree tree  # 1
     branch branch handle merge remote stream socket commit cache blob pack delta  # 2
     header socket stream pack header token socket remote index  # 3
+    pack blob delta ref object commit window pack delta header branch rebase  # 0
+    rebase pack object object rebase handle  # 1
+    cache ref queue socket worker index header socket  # 2
+    parser ref stream header queue parser tree handle socket merge  # 3
+    remote index pack parser window window pack queue worker delta parser merge  # 4
+    ref object rebase object merge header handle queue worker index queue  # 5
+    window stream buffer window socket pack branch ref worker queue socket  # 6
