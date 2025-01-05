@@ -47,3 +47,7 @@
     ref parser worker object commit ref branch rebase buffer stream token header  # 8
     parser socket header cache socket branch  # 9
     index rebase blob header object branch rebase tree stream  # 10
+    object header socket object ref parser pack tree delta pack buffer  # 0
+    branch ref object cache  # 1
+    buffer branch tree stream header queue header commit merge stream parser  # 2
+    queue blob rebase object blob ref branch cache  # 3

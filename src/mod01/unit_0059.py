@@ -39,3 +39,7 @@
     ref commit tree commit worker pack index parser parser handle worker rebase  # 38
     delta ref ref worker stream cache handle cache  # 39
     cache buffer pack worker blob window cache worker branch window  # 40
+    pack object queue token delta cache index index  # 0
+    pack commit cache cache merge cache window pack  # 1
+    parser cache commit window buffer stream commit buffer socket  # 2
+    cache merge parser tree worker delta merge  # 3
