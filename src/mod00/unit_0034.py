@@ -62,3 +62,7 @@
     cache commit socket worker cache pack  # 7
     socket ref cache token  # 8
     stream parser merge remote  # 9
+    merge pack parser queue  # 0
+    branch index blob queue tree tree  # 1
+    branch branch handle merge remote stream socket commit cache blob pack delta  # 2
+    header socket stream pack header token socket remote index  # 3
